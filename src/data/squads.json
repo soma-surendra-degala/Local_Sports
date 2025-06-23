@@ -1,0 +1,1197 @@
+[{
+  "tournament": "ICC Men's Champions Trophy 2025",
+  "tournament_id": "ICC-CT25",
+  "teams": [
+     {
+      "name": "India",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Rohit Sharma","player_image_url":"https://example.com/players/rohit_sharma.jpg"},
+        {"name":"Shubman Gill","player_image_url":"https://example.com/players/shubman_gill.jpg"},
+        {"name":"Yashasvi Jaiswal","player_image_url":"https://example.com/players/yashasvi_jaiswal.jpg"},
+        {"name":"Virat Kohli","player_image_url":"https://example.com/players/virat_kohli.jpg"},
+        {"name":"Shreyas Iyer","player_image_url":"https://example.com/players/shreyas_iyer.jpg"},
+        {"name":"KL Rahul","player_image_url":"https://example.com/players/kl_rahul.jpg"},
+        {"name":"Rishabh Pant","player_image_url":"https://example.com/players/rishabh_pant.jpg"},
+        {"name":"Hardik Pandya","player_image_url":"https://example.com/players/hardik_pandya.jpg"},
+        {"name":"Axar Patel","player_image_url":"https://example.com/players/axar_patel.jpg"},
+        {"name":"Washington Sundar","player_image_url":"https://example.com/players/washington_sundar.jpg"},
+        {"name":"Ravindra Jadeja","player_image_url":"https://example.com/players/ravindra_jadeja.jpg"},
+        {"name":"Varun Chakravarthy","player_image_url":"https://example.com/players/varun_chakravarthy.jpg"},
+        {"name":"Mohammed Shami","player_image_url":"https://example.com/players/mohammed_shami.jpg"},
+        {"name":"Arshdeep Singh","player_image_url":"https://example.com/players/arshdeep_singh.jpg"},
+        {"name":"Harshit Rana","player_image_url":"https://example.com/players/harshit_rana.jpg"}
+      ]
+    },
+    {
+      "name": "Australia",
+      "flag_url": "https://flagcdn.com/au.svg",
+      "squad": [
+        {"name":"Steve Smith","player_image_url":"https://example.com/players/steve_smith.jpg"},
+        {"name":"Sean Abbott","player_image_url":"https://example.com/players/sean_abbott.jpg"},
+        {"name":"Alex Carey","player_image_url":"https://example.com/players/alex_carey.jpg"},
+        {"name":"Ben Dwarshuis","player_image_url":"https://example.com/players/ben_dwarshuis.jpg"},
+        {"name":"Nathan Ellis","player_image_url":"https://example.com/players/nathan_ellis.jpg"},
+        {"name":"Jake Fraser-McGurk","player_image_url":"https://example.com/players/jake_fraser-mcgurk.jpg"},
+        {"name":"Aaron Hardie","player_image_url":"https://example.com/players/aaron_hardie.jpg"},
+        {"name":"Travis Head","player_image_url":"https://example.com/players/travis_head.jpg"},
+        {"name":"Josh Inglis","player_image_url":"https://example.com/players/josh_inglis.jpg"},
+        {"name":"Spencer Johnson","player_image_url":"https://example.com/players/spencer_johnson.jpg"},
+        {"name":"Marnus Labuschagne","player_image_url":"https://example.com/players/marnus_labuschagne.jpg"},
+        {"name":"Glenn Maxwell","player_image_url":"https://example.com/players/glenn_maxwell.jpg"},
+        {"name":"Tanveer Sangha","player_image_url":"https://example.com/players/tanveer_sangha.jpg"},
+        {"name":"Matthew Short","player_image_url":"https://example.com/players/matthew_short.jpg"},
+        {"name":"Adam Zampa","player_image_url":"https://example.com/players/adam_zampa.jpg"}
+      ],
+      "reserve": "Cooper Connolly"
+    },
+    {
+      "name": "England",
+      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "squad": [
+        {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
+        {"name":"Jofra Archer","player_image_url":"https://example.com/players/jofra_archer.jpg"},
+        {"name":"Gus Atkinson","player_image_url":"https://example.com/players/gus_atkinson.jpg"},
+        {"name":"Tom Banton","player_image_url":"https://example.com/players/tom_banton.jpg"},
+        {"name":"Harry Brook","player_image_url":"https://example.com/players/harry_brook.jpg"},
+        {"name":"Brydon Carse","player_image_url":"https://example.com/players/brydon_carse.jpg"},
+        {"name":"Ben Duckett","player_image_url":"https://example.com/players/ben_duckett.jpg"},
+        {"name":"Jamie Overton","player_image_url":"https://example.com/players/jamie_overton.jpg"},
+        {"name":"Jamie Smith","player_image_url":"https://example.com/players/jamie_smith.jpg"},
+        {"name":"Liam Livingstone","player_image_url":"https://example.com/players/liam_livingstone.jpg"},
+        {"name":"Adil Rashid","player_image_url":"https://example.com/players/adil_rashid.jpg"},
+        {"name":"Joe Root","player_image_url":"https://example.com/players/joe_root.jpg"},
+        {"name":"Saqib Mahmood","player_image_url":"https://example.com/players/saqib_mahmood.jpg"},
+        {"name":"Phil Salt","player_image_url":"https://example.com/players/phil_salt.jpg"},
+        {"name":"Mark Wood","player_image_url":"https://example.com/players/mark_wood.jpg"}
+      ]
+    },
+    {
+      "name": "South Africa",
+      "flag_url": "https://flagcdn.com/za.svg",
+      "squad": [
+        {"name":"Temba Bavuma","player_image_url":"https://example.com/players/temba_bavuma.jpg"},
+        {"name":"Tony de Zorzi","player_image_url":"https://example.com/players/tony_de_zorzi.jpg"},
+        {"name":"Marco Jansen","player_image_url":"https://example.com/players/marco_jansen.jpg"},
+        {"name":"Heinrich Klaasen","player_image_url":"https://example.com/players/heinrich_klaasen.jpg"},
+        {"name":"Keshav Maharaj","player_image_url":"https://example.com/players/keshav_maharaj.jpg"},
+        {"name":"Aiden Markram","player_image_url":"https://example.com/players/aiden_markram.jpg"},
+        {"name":"David Miller","player_image_url":"https://example.com/players/david_miller.jpg"},
+        {"name":"Wiaan Mulder","player_image_url":"https://example.com/players/wiaan_mulder.jpg"},
+        {"name":"Lungi Ngidi","player_image_url":"https://example.com/players/lungi_ngidi.jpg"},
+        {"name":"Kagiso Rabada","player_image_url":"https://example.com/players/kagiso_rabada.jpg"},
+        {"name":"Ryan Rickelton","player_image_url":"https://example.com/players/ryan_rickelton.jpg"},
+        {"name":"Tabraiz Shamsi","player_image_url":"https://example.com/players/tabraiz_shamsi.jpg"},
+        {"name":"Tristan Stubbs","player_image_url":"https://example.com/players/tristan_stubbs.jpg"},
+        {"name":"Rassie van der Dussen","player_image_url":"https://example.com/players/rassie_van_der_dussen.jpg"},
+        {"name":"Corbin Bosch","player_image_url":"https://example.com/players/corbin_bosch.jpg"}
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "flag_url": "https://flagcdn.com/pk.svg",
+      "squad": [
+        {"name":"Mohammad Rizwan","player_image_url":"https://example.com/players/mohammad_rizwan.jpg"},
+        {"name":"Babar Azam","player_image_url":"https://example.com/players/babar_azam.jpg"},
+        {"name":"Fakhar Zaman","player_image_url":"https://example.com/players/fakhar_zaman.jpg"},
+        {"name":"Kamran Ghulam","player_image_url":"https://example.com/players/kamran_ghulam.jpg"},
+        {"name":"Saud Shakeel","player_image_url":"https://example.com/players/saud_shakeel.jpg"},
+        {"name":"Tayyab Tahir","player_image_url":"https://example.com/players/tayyab_tahir.jpg"},
+        {"name":"Faheem Ashraf","player_image_url":"https://example.com/players/faheem_ashraf.jpg"},
+        {"name":"Khushdil Shah","player_image_url":"https://example.com/players/khushdil_shah.jpg"},
+        {"name":"Salman Ali Agha","player_image_url":"https://example.com/players/salman_ali_agha.jpg"},
+        {"name":"Usman Khan","player_image_url":"https://example.com/players/usman_khan.jpg"},
+        {"name":"Abrar Ahmed","player_image_url":"https://example.com/players/abrar_ahmed.jpg"},
+        {"name":"Haris Rauf","player_image_url":"https://example.com/players/haris_rauf.jpg"},
+        {"name":"Mohammad Hasnain","player_image_url":"https://example.com/players/mohammad_hasnain.jpg"},
+        {"name":"Naseem Shah","player_image_url":"https://example.com/players/naseem_shah.jpg"},
+        {"name":"Shaheen Shah Afridi","player_image_url":"https://example.com/players/shaheen_shah_afridi.jpg"}
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "flag_url": "https://flagcdn.com/bd.svg",
+      "squad": [
+        {"name":"Nazmul Hossain Shanto","player_image_url":"https://example.com/players/nazmul_shanto.jpg"},
+        {"name":"Soumya Sarkar","player_image_url":"https://example.com/players/soumya_sarkar.jpg"},
+        {"name":"Tanzid Hasan","player_image_url":"https://example.com/players/tanzid_hasan.jpg"},
+        {"name":"Towhid Hridoy","player_image_url":"https://example.com/players/towhid_hridoy.jpg"},
+        {"name":"Mushfiqur Rahim","player_image_url":"https://example.com/players/mushfiqur_rahim.jpg"},
+        {"name":"Mahmudullah","player_image_url":"https://example.com/players/mahmudullah.jpg"},
+        {"name":"Jaker Ali Anik","player_image_url":"https://example.com/players/jaker_ali_anik.jpg"},
+        {"name":"Mehidy Hasan Miraz","player_image_url":"https://example.com/players/mehidy_miraz.jpg"},
+        {"name":"Rishad Hossain","player_image_url":"https://example.com/players/rishad_hossain.jpg"},
+        {"name":"Taskin Ahmed","player_image_url":"https://example.com/players/taskin_ahmed.jpg"},
+        {"name":"Mustafizur Rahman","player_image_url":"https://example.com/players/mustafizur_rahman.jpg"},
+        {"name":"Parvez Hossain Emon","player_image_url":"https://example.com/players/parvez_hossain_emon.jpg"},
+        {"name":"Nasum Ahmed","player_image_url":"https://example.com/players/nasum_ahmed.jpg"},
+        {"name":"Tanzim Hasan Sakib","player_image_url":"https://example.com/players/tanzim_hasan_sakib.jpg"},
+        {"name":"Nahid Rana","player_image_url":"https://example.com/players/nahid_rana.jpg"}
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "flag_url": "https://flagcdn.com/nz.svg",
+      "squad": [
+        {"name":"Mitchell Santner","player_image_url":"https://example.com/players/mitchell_santner.jpg"},
+        {"name":"Michael Bracewell","player_image_url":"https://example.com/players/michael_bracewell.jpg"},
+        {"name":"Mark Chapman","player_image_url":"https://example.com/players/mark_chapman.jpg"},
+        {"name":"Devon Conway","player_image_url":"https://example.com/players/devon_conway.jpg"},
+        {"name":"Lockie Ferguson","player_image_url":"https://example.com/players/lockie_ferguson.jpg"},
+        {"name":"Matt Henry","player_image_url":"https://example.com/players/matt_henry.jpg"},
+        {"name":"Tom Latham","player_image_url":"https://example.com/players/tom_latham.jpg"},
+        {"name":"Daryl Mitchell","player_image_url":"https://example.com/players/daryl_mitchell.jpg"},
+        {"name":"Will O'Rourke","player_image_url":"https://example.com/players/will_orourke.jpg"},
+        {"name":"Glenn Phillips","player_image_url":"https://example.com/players/glenn_phillips.jpg"},
+        {"name":"Rachin Ravindra","player_image_url":"https://example.com/players/rachin_ravindra.jpg"},
+        {"name":"Ben Sears","player_image_url":"https://example.com/players/ben_sears.jpg"},
+        {"name":"Nathan Smith","player_image_url":"https://example.com/players/nathan_smith.jpg"},
+        {"name":"Kane Williamson","player_image_url":"https://example.com/players/kane_williamson.jpg"},
+        {"name":"Will Young","player_image_url":"https://example.com/players/will_young.jpg"}
+      ]
+    },
+    {
+      "name": "Afghanistan",
+      "flag_url": "https://flagcdn.com/af.svg",
+      "squad": [
+        {"name":"Hashmatullah Shahidi","player_image_url":"https://example.com/players/hashmatullah_shahidi.jpg"},
+        {"name":"Ibrahim Zadran","player_image_url":"https://example.com/players/ibrahim_zadran.jpg"},
+        {"name":"Rahmanullah Gurbaz","player_image_url":"https://example.com/players/rahmanullah_gurbaz.jpg"},
+        {"name":"Sediqullah Atal","player_image_url":"https://example.com/players/sediqullah_atal.jpg"},
+        {"name":"Rahmat Shah","player_image_url":"https://example.com/players/rahmat_shah.jpg"},
+        {"name":"Ikram Alikhil","player_image_url":"https://example.com/players/ikram_alikhil.jpg"},
+        {"name":"Gulbadin Naib","player_image_url":"https://example.com/players/gulbadin_naib.jpg"},
+        {"name":"Azmatullah Omarzai","player_image_url":"https://example.com/players/azmatullah_omarzai.jpg"},
+        {"name":"Mohammad Nabi","player_image_url":"https://example.com/players/mohammad_nabi.jpg"},
+        {"name":"Rashid Khan","player_image_url":"https://example.com/players/rashid_khan.jpg"},
+        {"name":"Nangyal Kharoti","player_image_url":"https://example.com/players/nangyal_kharoti.jpg"},
+        {"name":"Noor Ahmad","player_image_url":"https://example.com/players/noor_ahmad.jpg"},
+        {"name":"Fazalhaq Farooqi","player_image_url":"https://example.com/players/fazalhaq_farooqi.jpg"},
+        {"name":"Farid Malik","player_image_url":"https://example.com/players/farid_malik.jpg"},
+        {"name":"Naveed Zadran","player_image_url":"https://example.com/players/naveed_zadran.jpg"}
+      ]
+    }
+  ]
+},
+{
+  "tournament": "ICC Women’s T20 World Cup 2024",
+  "tournament_id": "ICC-WW25",
+  "teams": [
+    {
+      "name": "Australia",
+      "flag_url": "https://flagcdn.com/au.svg",
+      "squad": [
+        {"name":"Alyssa Healy","player_image_url":"https://example.com/players/alyssa_healy.jpg"},
+        {"name":"Darcie Brown","player_image_url":"https://example.com/players/darcie_brown.jpg"},
+        {"name":"Ashleigh Gardner","player_image_url":"https://example.com/players/ashleigh_gardner.jpg"},
+        {"name":"Kim Garth","player_image_url":"https://example.com/players/kim_garth.jpg"},
+        {"name":"Grace Harris","player_image_url":"https://example.com/players/grace_harris.jpg"},
+        {"name":"Alana King","player_image_url":"https://example.com/players/alana_king.jpg"},
+        {"name":"Phoebe Litchfield","player_image_url":"https://example.com/players/phoebe_litchfield.jpg"},
+        {"name":"Tahlia McGrath","player_image_url":"https://example.com/players/tahlia_mcgrath.jpg"},
+        {"name":"Sophie Molineux","player_image_url":"https://example.com/players/sophie_molineux.jpg"},
+        {"name":"Beth Mooney","player_image_url":"https://example.com/players/beth_mooney.jpg"},
+        {"name":"Ellyse Perry","player_image_url":"https://example.com/players/ellyse_perry.jpg"},
+        {"name":"Megan Schutt","player_image_url":"https://example.com/players/megan_schutt.jpg"},
+        {"name":"Annabel Sutherland","player_image_url":"https://example.com/players/annabel_sutherland.jpg"},
+        {"name":"Tayla Vlaeminck","player_image_url":"https://example.com/players/tayla_vlaeminck.jpg"},
+        {"name":"Georgia Wareham","player_image_url":"https://example.com/players/georgia_wareham.jpg"}
+      ]
+    },
+    {
+      "name": "India",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Harmanpreet Kaur","player_image_url":"https://example.com/players/harmanpreet_kaur.jpg"},
+        {"name":"Smriti Mandhana","player_image_url":"https://example.com/players/smriti_mandhana.jpg"},
+        {"name":"Shafali Verma","player_image_url":"https://example.com/players/shafali_verma.jpg"},
+        {"name":"Deepti Sharma","player_image_url":"https://example.com/players/deepti_sharma.jpg"},
+        {"name":"Jemimah Rodrigues","player_image_url":"https://example.com/players/jemimah_rodrigues.jpg"},
+        {"name":"Richa Ghosh","player_image_url":"https://example.com/players/richa_ghosh.jpg"},
+        {"name":"Yastika Bhatia","player_image_url":"https://example.com/players/yastika_bhatia.jpg"},
+        {"name":"Pooja Vastrakar","player_image_url":"https://example.com/players/pooja_vastrakar.jpg"},
+        {"name":"Arundhati Reddy","player_image_url":"https://example.com/players/arundhati_reddy.jpg"},
+        {"name":"Renuka Singh Thakur","player_image_url":"https://example.com/players/renuka_singh_thakur.jpg"},
+        {"name":"Dayalan Hemalatha","player_image_url":"https://example.com/players/dayalan_hemalatha.jpg"},
+        {"name":"Asha Sobhana","player_image_url":"https://example.com/players/asha_sobhana.jpg"},
+        {"name":"Radha Yadav","player_image_url":"https://example.com/players/radha_yadav.jpg"},
+        {"name":"Shreyanka Patil","player_image_url":"https://example.com/players/shreyanka_patil.jpg"},
+        {"name":"Sajana Sajeevan","player_image_url":"https://example.com/players/sajana_sajeevan.jpg"}
+      ],
+      "reserves": ["Uma Chetry", "Tanuja Kanwer", "Saima Thakor"]
+    },
+    {
+      "name": "New Zealand",
+      "flag_url": "https://flagcdn.com/nz.svg",
+      "squad": [
+        {"name":"Sophie Devine","player_image_url":"https://example.com/players/sophie_devine.jpg"},
+        {"name":"Suzie Bates","player_image_url":"https://example.com/players/suzie_bates.jpg"},
+        {"name":"Eden Carson","player_image_url":"https://example.com/players/eden_carson.jpg"},
+        {"name":"Izzy Gaze","player_image_url":"https://example.com/players/izzy_gaze.jpg"},
+        {"name":"Maddy Green","player_image_url":"https://example.com/players/maddy_green.jpg"},
+        {"name":"Brooke Halliday","player_image_url":"https://example.com/players/brooke_halliday.jpg"},
+        {"name":"Fran Jonas","player_image_url":"https://example.com/players/fran_jonas.jpg"},
+        {"name":"Leigh Kasperek","player_image_url":"https://example.com/players/leigh_kasperek.jpg"},
+        {"name":"Amelia Kerr","player_image_url":"https://example.com/players/amelia_kerr.jpg"},
+        {"name":"Jess Kerr","player_image_url":"https://example.com/players/jess_kerr.jpg"},
+        {"name":"Rosemary Mair","player_image_url":"https://example.com/players/rosemary_mair.jpg"},
+        {"name":"Molly Penfold","player_image_url":"https://example.com/players/molly_penfold.jpg"},
+        {"name":"Georgia Plimmer","player_image_url":"https://example.com/players/georgia_plimmer.jpg"},
+        {"name":"Hannah Rowe","player_image_url":"https://example.com/players/hannah_rowe.jpg"},
+        {"name":"Lea Tahuhu","player_image_url":"https://example.com/players/lea_tahuhu.jpg"}
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "flag_url": "https://flagcdn.com/pk.svg",
+      "squad": [
+        {"name":"Fatima Sana","player_image_url":"https://example.com/players/fatima_sana.jpg"},
+        {"name":"Aliya Riaz","player_image_url":"https://example.com/players/aliya_riaz.jpg"},
+        {"name":"Diana Baig","player_image_url":"https://example.com/players/diana_baig.jpg"},
+        {"name":"Gull Feroza","player_image_url":"https://example.com/players/gull_feroza.jpg"},
+        {"name":"Iram Javed","player_image_url":"https://example.com/players/iram_javed.jpg"},
+        {"name":"Muneeba Ali","player_image_url":"https://example.com/players/muneeba_ali.jpg"},
+        {"name":"Nashra Sundhu","player_image_url":"https://example.com/players/nashra_sundhu.jpg"},
+        {"name":"Nida Dar","player_image_url":"https://example.com/players/nida_dar.jpg"},
+        {"name":"Omaima Sohail","player_image_url":"https://example.com/players/omaima_sohail.jpg"},
+        {"name":"Sadaf Shamas","player_image_url":"https://example.com/players/sadaf_shamas.jpg"},
+        {"name":"Sadia Iqbal","player_image_url":"https://example.com/players/sadia_iqbal.jpg"},
+        {"name":"Sidra Amin","player_image_url":"https://example.com/players/sidra_amin.jpg"},
+        {"name":"Syeda Aroob Shah","player_image_url":"https://example.com/players/aroob_shah.jpg"},
+        {"name":"Tasmia Rubab","player_image_url":"https://example.com/players/tasmia_rubab.jpg"},
+        {"name":"Tuba Hassan","player_image_url":"https://example.com/players/tuba_hassan.jpg"}
+      ],
+      "reserves": ["Najiha Alvi", "Rameen Shamim", "Umm-e-Hani"]
+    },
+    {
+      "name": "England",
+      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "squad": [
+        {"name":"Heather Knight","player_image_url":"https://example.com/players/heather_knight.jpg"},
+        {"name":"Danni Wyatt","player_image_url":"https://example.com/players/danni_wyatt.jpg"},
+        {"name":"Sophia Dunkley","player_image_url":"https://example.com/players/sophia_dunkley.jpg"},
+        {"name":"Nat Sciver-Brunt","player_image_url":"https://example.com/players/nat_sciver_brunt.jpg"},
+        {"name":"Alice Capsey","player_image_url":"https://example.com/players/alice_capsey.jpg"},
+        {"name":"Amy Jones","player_image_url":"https://example.com/players/amy_jones.jpg"},
+        {"name":"Sophie Ecclestone","player_image_url":"https://example.com/players/sophie_ecclestone.jpg"},
+        {"name":"Charlie Dean","player_image_url":"https://example.com/players/charlie_dean.jpg"},
+        {"name":"Sarah Glenn","player_image_url":"https://example.com/players/sarah_glenn.jpg"},
+        {"name":"Lauren Bell","player_image_url":"https://example.com/players/lauren_bell.jpg"},
+        {"name":"Maia Bouchier","player_image_url":"https://example.com/players/maia_bouchier.jpg"},
+        {"name":"Linsey Smith","player_image_url":"https://example.com/players/linsey_smith.jpg"},
+        {"name":"Freya Kemp","player_image_url":"https://example.com/players/freya_kemp.jpg"},
+        {"name":"Danielle Gibson","player_image_url":"https://example.com/players/danielle_gibson.jpg"},
+        {"name":"Bess Heath","player_image_url":"https://example.com/players/bess_heath.jpg"}
+      ]
+    },
+    {
+      "name": "South Africa",
+      "flag_url": "https://flagcdn.com/za.svg",
+      "squad": [
+        {"name":"Laura Wolvaardt","player_image_url":"https://example.com/players/laura_wolvaardt.jpg"},
+        {"name":"Anneke Bosch","player_image_url":"https://example.com/players/anneke_bosch.jpg"},
+        {"name":"Tazmin Brits","player_image_url":"https://example.com/players/tazmin_brits.jpg"},
+        {"name":"Nadine de Klerk","player_image_url":"https://example.com/players/nadine_de_klerk.jpg"},
+        {"name":"Annerie Dercksen","player_image_url":"https://example.com/players/annerie_dercksen.jpg"},
+        {"name":"Mieke de Ridder","player_image_url":"https://example.com/players/mieke_de_ridder.jpg"},
+        {"name":"Ayanda Hlubi","player_image_url":"https://example.com/players/ayanda_hlubi.jpg"},
+        {"name":"Sinalo Jafta","player_image_url":"https://example.com/players/sinalo_jafta.jpg"},
+        {"name":"Marizanne Kapp","player_image_url":"https://example.com/players/marizanne_kapp.jpg"},
+        {"name":"Ayabonga Khaka","player_image_url":"https://example.com/players/ayabonga_khaka.jpg"},
+        {"name":"Suné Luus","player_image_url":"https://example.com/players/sune_luus.jpg"},
+        {"name":"Nonkululeko Mlaba","player_image_url":"https://example.com/players/nonkululeko_mlaba.jpg"},
+        {"name":"Seshnie Naidu","player_image_url":"https://example.com/players/seshnie_naidu.jpg"},
+        {"name":"Tumi Sekhukhune","player_image_url":"https://example.com/players/tumi_sekhukhune.jpg"},
+        {"name":"Chloé Tryon","player_image_url":"https://example.com/players/chloe_tryon.jpg"}
+      ]
+    },
+    {
+      "name": "West Indies",
+      "flag_url": "https://flagcdn.com/tt.svg",
+      "squad": [
+        {"name":"Hayley Matthews","player_image_url":"https://example.com/players/hayley_matthews.jpg"},
+        {"name":"Aaliyah Alleyne","player_image_url":"https://example.com/players/aaliyah_alleyne.jpg"},
+        {"name":"Shamilia Connell","player_image_url":"https://example.com/players/shamilia_connell.jpg"},
+        {"name":"Deandra Dottin","player_image_url":"https://example.com/players/deandra_dottin.jpg"},
+        {"name":"Shemaine Campbelle","player_image_url":"https://example.com/players/shemaine_campbelle.jpg"},
+        {"name":"Ashmini Munisar","player_image_url":"https://example.com/players/ashmini_munisar.jpg"},
+        {"name":"Afy Fletcher","player_image_url":"https://example.com/players/afy_fletcher.jpg"},
+        {"name":"Chinelle Henry","player_image_url":"https://example.com/players/chinelle_henry.jpg"},
+        {"name":"Chedean Nation","player_image_url":"https://example.com/players/chedean_nation.jpg"},
+        {"name":"Qiana Joseph","player_image_url":"https://example.com/players/qiana_joseph.jpg"},
+        {"name":"Zaida James","player_image_url":"https://example.com/players/zaida_james.jpg"},
+        {"name":"Mandy Mangru","player_image_url":"https://example.com/players/mandy_mangru.jpg"},
+        {"name":"Nerissa Crafton","player_image_url":"https://example.com/players/nerissa_crafton.jpg"},
+        {"name":"Stafanie Taylor","player_image_url":"https://example.com/players/stafanie_taylor.jpg"},
+        {"name":"Shermaine Campbelle","player_image_url":"https://example.com/players/shermaine_campbelle.jpg"}
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "flag_url": "https://flagcdn.com/bd.svg",
+      "squad": [
+        {"name":"Nigar Sultana","player_image_url":"https://example.com/players/nigar_sultana.jpg"},
+        {"name":"Nahida Akter","player_image_url":"https://example.com/players/nahida_akter.jpg"},
+        {"name":"Murshida Khatun","player_image_url":"https://example.com/players/murshida_khatun.jpg"},
+        {"name":"Shorna Akter","player_image_url":"https://example.com/players/shorna_akter.jpg"},
+        {"name":"Marufa Akter","player_image_url":"https://example.com/players/marufa_akter.jpg"},
+        {"name":"Rabeya Khan","player_image_url":"https://example.com/players/rabeya_khan.jpg"},
+        {"name":"Ritu Moni","player_image_url":"https://example.com/players/ritu_moni.jpg"},
+        {"name":"Sobhana Mostary","player_image_url":"https://example.com/players/sobhana_mostary.jpg"},
+        {"name":"Dilara Akter","player_image_url":"https://example.com/players/dilara_akter.jpg"},
+        {"name":"Sultana Khatun","player_image_url":"https://example.com/players/sultana_khatun.jpg"},
+        {"name":"Jahanara Alam","player_image_url":"https://example.com/players/jahanara_alam.jpg"},
+        {"name":"Fahima Khatun","player_image_url":"https://example.com/players/fahima_khatun.jpg"},
+        {"name":"Taj Nehar","player_image_url":"https://example.com/players/taj_nehar.jpg"},
+        {"name":"Disha Biswas","player_image_url":"https://example.com/players/disha_biswas.jpg"},
+        {"name":"Shathi Rani","player_image_url":"https://example.com/players/shathi_rani.jpg"}
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "flag_url": "https://flagcdn.com/lk.svg",
+      "squad": [
+        {"name":"Chamari Athapaththu","player_image_url":"https://example.com/players/chamari_athapaththu.jpg"},
+        {"name":"Anushka Sanjeewani","player_image_url":"https://example.com/players/anushka_sanjeewani.jpg"},
+        {"name":"Harshitha Madhavi","player_image_url":"https://example.com/players/harshitha_madhavi.jpg"},
+        {"name":"Nilakshika de Silva","player_image_url":"https://example.com/players/nilakshika_de_silva.jpg"},
+        {"name":"Inoka Ranaweera","player_image_url":"https://example.com/players/inoka_ranaweera.jpg"},
+        {"name":"Hasini Perera","player_image_url":"https://example.com/players/hasini_perera.jpg"},
+        {"name":"Kavisha Dilhari","player_image_url":"https://example.com/players/kavisha_dilhari.jpg"},
+        {"name":"Sachini Nisansala","player_image_url":"https://example.com/players/sachini_nisansala.jpg"},
+        {"name":"Vishmi Gunaratne","player_image_url":"https://example.com/players/vishmi_gunaratne.jpg"},
+        {"name":"Udeshika Prabodhani","player_image_url":"https://example.com/players/udeshika_prabodhani.jpg"},
+        {"name":"Achini Kulasuriya","player_image_url":"https://example.com/players/achini_kulasuriya.jpg"},
+        {"name":"Sugandika Kumari","player_image_url":"https://example.com/players/sugandika_kumari.jpg"},
+        {"name":"Inoshi Priyadharshani","player_image_url":"https://example.com/players/inoshi_priyadharshani.jpg"},
+        {"name":"Shashini Gimhani","player_image_url":"https://example.com/players/shashini_gimhani.jpg"},
+        {"name":"Ama Kanchana","player_image_url":"https://example.com/players/ama_kanchana.jpg"}
+      ]
+    },
+    {
+      "name": "Scotland",
+      "flag_url": "https://flagcdn.com/gb-sct.svg",
+      "squad": [
+        {"name":"Kathryn Bryce","player_image_url":"https://example.com/players/kathryn_bryce.jpg"},
+        {"name":"Sarah Bryce","player_image_url":"https://example.com/players/sarah_bryce.jpg"},
+        {"name":"Lorna Jack-Brown","player_image_url":"https://example.com/players/lorna_jack-brown.jpg"},
+        {"name":"Abbi Aitken-Drummond","player_image_url":"https://example.com/players/abbi_aitken-drummond.jpg"},
+        {"name":"Abtaha Maqsood","player_image_url":"https://example.com/players/abtaha_maqsood.jpg"},
+        {"name":"Saskia Horley","player_image_url":"https://example.com/players/saskia_horley.jpg"},
+        {"name":"Chloe Abel","player_image_url":"https://example.com/players/chloe_abel.jpg"},
+        {"name":"Priyanaz Chatterji","player_image_url":"https://example.com/players/priyanaz_chatterji.jpg"},
+        {"name":"Megan McColl","player_image_url":"https://example.com/players/megan_mccoll.jpg"},
+        {"name":"Darcey Carter","player_image_url":"https://example.com/players/darcey_carter.jpg"},
+        {"name":"Ailsa Lister","player_image_url":"https://example.com/players/ailsa_lister.jpg"},
+        {"name":"Hannah Rainey","player_image_url":"https://example.com/players/hannah_rainey.jpg"},
+        {"name":"Rachel Slater","player_image_url":"https://example.com/players/rachel_slater.jpg"},
+        {"name":"Katherine Fraser","player_image_url":"https://example.com/players/katherine_fraser.jpg"},
+        {"name":"Olivia Bell","player_image_url":"https://example.com/players/olivia_bell.jpg"}
+      ]
+    }
+  ]
+},
+{
+  "tournament_id": "ASHES25-26",
+  "name": "The Ashes 2025–26",
+  "format": "Test",
+  "teams": [
+    {
+      "name": "Australia",
+      "flag_url": "https://flagcdn.com/au.svg",
+      "squad": [
+        {"name": "Pat Cummins", "player_image_url": "https://example.com/players/pat_cummins.jpg"},
+        {"name": "Steve Smith", "player_image_url": "https://example.com/players/steve_smith.jpg"},
+        {"name": "Travis Head", "player_image_url": "https://example.com/players/travis_head.jpg"},
+        {"name": "Josh Hazlewood", "player_image_url": "https://example.com/players/josh_hazlewood.jpg"},
+        {"name": "Josh Inglis", "player_image_url": "https://example.com/players/josh_inglis.jpg"},
+        {"name": "Usman Khawaja", "player_image_url": "https://example.com/players/usman_khawaja.jpg"},
+        {"name": "Sam Konstas", "player_image_url": "https://example.com/players/sam_konstas.jpg"},
+        {"name": "Marnus Labuschagne", "player_image_url": "https://example.com/players/marnus_labuschagne.jpg"},
+        {"name": "Cameron Green", "player_image_url": "https://example.com/players/cameron_green.jpg"},
+        {"name": "Alex Carey", "player_image_url": "https://example.com/players/alex_carey.jpg"},
+        {"name": "Mitchell Starc", "player_image_url": "https://example.com/players/mitchell_starc.jpg"},
+        {"name": "Scott Boland", "player_image_url": "https://example.com/players/scott_boland.jpg"},
+        {"name": "Nathan Lyon", "player_image_url": "https://example.com/players/nathan_lyon.jpg"},
+        {"name": "Beau Webster", "player_image_url": "https://example.com/players/beau_webster.jpg"},
+        {"name": "Matthew Kuhnemann", "player_image_url": "https://example.com/players/matthew_kuhnemann.jpg"}
+      ]
+    },
+    {
+      "name": "England",
+      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "squad": [
+        {"name": "Ben Stokes", "player_image_url": "https://example.com/players/ben_stokes.jpg"},
+        {"name": "Joe Root", "player_image_url": "https://example.com/players/joe_root.jpg"},
+        {"name": "Harry Brook", "player_image_url": "https://example.com/players/harry_brook.jpg"},
+        {"name": "Gus Atkinson", "player_image_url": "https://example.com/players/gus_atkinson.jpg"},
+        {"name": "Jofra Archer", "player_image_url": "https://example.com/players/jofra_archer.jpg"},
+        {"name": "Mark Wood", "player_image_url": "https://example.com/players/mark_wood.jpg"},
+        {"name": "Reece Topley", "player_image_url": "https://example.com/players/reece_topley.jpg"},
+        {"name": "Adil Rashid", "player_image_url": "https://example.com/players/adil_rashid.jpg"},
+        {"name": "Jonny Bairstow", "player_image_url": "https://example.com/players/jonny_bairstow.jpg"},
+        {"name": "Zak Crawley", "player_image_url": "https://example.com/players/zak_crawley.jpg"},
+        {"name": "Ben Duckett", "player_image_url": "https://example.com/players/ben_duckett.jpg"},
+        {"name": "Ollie Robinson", "player_image_url": "https://example.com/players/ollie_robinson.jpg"},
+        {"name": "Tom Hartley", "player_image_url": "https://example.com/players/tom_hartley.jpg"},
+        {"name": "Dom Bess", "player_image_url": "https://example.com/players/dom_bess.jpg"},
+        {"name": "Graham Onions", "player_image_url": "https://example.com/players/graham_onions.jpg"}
+      ]
+    }
+  ]
+},{
+  "tournament_id": "ICC-WTCF25",
+  "name": "ICC World Test Championship Final 2025",
+  "format": "Test",
+  "venue": "Lord's, London",
+  "dates": "2025-06-11 to 2025-06-15",
+  "teams": [
+    {
+      "name": "Australia",
+      "flag_url": "https://flagcdn.com/au.svg",
+      "captain": "Pat Cummins",
+      "squad": [
+        { "name": "Pat Cummins", "player_image_url": "https://example.com/players/pat_cummins.jpg" },
+        { "name": "Scott Boland", "player_image_url": "https://example.com/players/scott_boland.jpg" },
+        { "name": "Alex Carey", "player_image_url": "https://example.com/players/alex_carey.jpg" },
+        { "name": "Cameron Green", "player_image_url": "https://example.com/players/cameron_green.jpg" },
+        { "name": "Josh Hazlewood", "player_image_url": "https://example.com/players/josh_hazlewood.jpg" },
+        { "name": "Travis Head", "player_image_url": "https://example.com/players/travis_head.jpg" },
+        { "name": "Josh Inglis", "player_image_url": "https://example.com/players/josh_inglis.jpg" },
+        { "name": "Usman Khawaja", "player_image_url": "https://example.com/players/usman_khawaja.jpg" },
+        { "name": "Sam Konstas", "player_image_url": "https://example.com/players/sam_konstas.jpg" },
+        { "name": "Marnus Labuschagne", "player_image_url": "https://example.com/players/marnus_labuschagne.jpg" },
+        { "name": "Nathan Lyon", "player_image_url": "https://example.com/players/nathan_lyon.jpg" },
+        { "name": "Mitchell Starc", "player_image_url": "https://example.com/players/mitchell_starc.jpg" },
+        { "name": "Beau Webster", "player_image_url": "https://example.com/players/beau_webster.jpg" },
+        { "name": "Matthew Kuhnemann", "player_image_url": "https://example.com/players/matthew_kuhnemann.jpg" },
+        { "name": "Steve Smith", "player_image_url": "https://example.com/players/steve_smith.jpg" }
+      ],
+      "reserve": { "name": "Brendan Doggett", "player_image_url": "https://example.com/players/brendan_doggett.jpg" }
+    },
+    {
+      "name": "South Africa",
+      "flag_url": "https://flagcdn.com/za.svg",
+      "captain": "Temba Bavuma",
+      "squad": [
+        { "name": "Temba Bavuma", "player_image_url": "https://example.com/players/temba_bavuma.jpg" },
+        { "name": "Tony de Zorzi", "player_image_url": "https://example.com/players/tony_de_zorzi.jpg" },
+        { "name": "Aiden Markram", "player_image_url": "https://example.com/players/aiden_markram.jpg" },
+        { "name": "Ryan Rickelton", "player_image_url": "https://example.com/players/ryan_rickelton.jpg" },
+        { "name": "David Bedingham", "player_image_url": "https://example.com/players/david_bedingham.jpg" },
+        { "name": "Tristan Stubbs", "player_image_url": "https://example.com/players/tristan_stubbs.jpg" },
+        { "name": "Kyle Verreynne", "player_image_url": "https://example.com/players/kyle_verreynne.jpg" },
+        { "name": "Marco Jansen", "player_image_url": "https://example.com/players/marco_jansen.jpg" },
+        { "name": "Senuran Muthusamy", "player_image_url": "https://example.com/players/senuran_muthusamy.jpg" },
+        { "name": "Wiaan Mulder", "player_image_url": "https://example.com/players/wiaan_mulder.jpg" },
+        { "name": "Corbin Bosch", "player_image_url": "https://example.com/players/corbin_bosch.jpg" },
+        { "name": "Keshav Maharaj", "player_image_url": "https://example.com/players/keshav_maharaj.jpg" },
+        { "name": "Dane Paterson", "player_image_url": "https://example.com/players/dane_paterson.jpg" },
+        { "name": "Lungi Ngidi", "player_image_url": "https://example.com/players/lungi_ngidi.jpg" },
+        { "name": "Kagiso Rabada", "player_image_url": "https://example.com/players/kagiso_rabada.jpg" }
+      ]
+    }
+  ]
+},
+{
+  "tournament_id": "IPL25",
+  "name": "Indian Premier League 2025",
+  "format": "T20",
+  "teams": [
+    {
+      "name": "Royal Challengers Bengaluru",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Virat Kohli","player_image_url":"https://example.com/players/virat_kohli.jpg"},
+        {"name":"Rajat Patidar","player_image_url":"https://example.com/players/rajat_patidar.jpg"},
+        {"name":"Phil Salt","player_image_url":"https://example.com/players/phil_salt.jpg"},
+        {"name":"Jitesh Sharma","player_image_url":"https://example.com/players/jitesh_sharma.jpg"},
+        {"name":"Liam Livingstone","player_image_url":"https://example.com/players/liam_livingstone.jpg"},
+        {"name":"Krunal Pandya","player_image_url":"https://example.com/players/krunal_pandya.jpg"},
+        {"name":"Tim David","player_image_url":"https://example.com/players/tim_david.jpg"},
+        {"name":"Bhuvneshwar Kumar","player_image_url":"https://example.com/players/bhuvneshwar_kumar.jpg"},
+        {"name":"Josh Hazlewood","player_image_url":"https://example.com/players/josh_hazlewood.jpg"},
+        {"name":"Lungi Ngidi","player_image_url":"https://example.com/players/lungi_ngidi.jpg"},
+        {"name":"Devdutt Padikkal","player_image_url":"https://example.com/players/devdutt_padikkal.jpg"},
+        {"name":"Jacob Bethell","player_image_url":"https://example.com/players/jacob_bethell.jpg"},
+        {"name":"Suyash Sharma","player_image_url":"https://example.com/players/suyash_sharma.jpg"},
+        {"name":"Abhinandan Singh","player_image_url":"https://example.com/players/abhinandan_singh.jpg"},
+        {"name":"Romario Shepherd","player_image_url":"https://example.com/players/romario_shepherd.jpg"}
+      ]
+    },
+    {
+      "name": "Chennai Super Kings",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"MS Dhoni","player_image_url":"https://example.com/players/ms_dhoni.jpg"},
+        {"name":"Ravindra Jadeja","player_image_url":"https://example.com/players/ravindra_jadeja.jpg"},
+        {"name":"Devon Conway","player_image_url":"https://example.com/players/devon_conway.jpg"},
+        {"name":"Jamie Overton","player_image_url":"https://example.com/players/jamie_overton.jpg"},
+        {"name":"Noor Ahmad","player_image_url":"https://example.com/players/noor_ahmad.jpg"},
+        {"name":"Rachin Ravindra","player_image_url":"https://example.com/players/rachin_ravindra.jpg"},
+        {"name":"Dewald Brevis","player_image_url":"https://example.com/players/dewald_brevis.jpg"},
+        {"name":"Shreyas Gopal","player_image_url":"https://example.com/players/shreyas_gopal.jpg"},
+        {"name":"Shivam Dube","player_image_url":"https://example.com/players/shivam_dube.jpg"},
+        {"name":"Mukesh Choudhary","player_image_url":"https://example.com/players/mukesh_choudhary.jpg"},
+        {"name":"Andre Siddarth","player_image_url":"https://example.com/players/andre_siddarth.jpg"},
+        {"name":"Urvil Patel","player_image_url":"https://example.com/players/urvil_patel.jpg"},
+        {"name":"Ayush Mhatre","player_image_url":"https://example.com/players/ayush_mhatre.jpg"},
+        {"name":"Sam Curran","player_image_url":"https://example.com/players/sam_curran.jpg"},
+        {"name":"Khaleel Ahmed","player_image_url":"https://example.com/players/khaleel_ahmed.jpg"},
+        {"name":"Nathan Ellis","player_image_url":"https://example.com/players/nathan_ellis.jpg"},
+        {"name":"Matheesha Pathirana","player_image_url":"https://example.com/players/matheesha_pathirana.jpg"},
+        {"name":"Shaik Rasheed","player_image_url":"https://example.com/players/shaik_rasheed.jpg"}
+      ]
+    },{
+  "name": "Delhi Capitals",
+  "flag_url": "https://flagcdn.com/in.svg",
+  "squad": [
+    {"name":"Axar Patel","player_image_url":"https://example.com/players/axar_patel.jpg"},
+    {"name":"KL Rahul","player_image_url":"https://example.com/players/kl_rahul.jpg"},
+    {"name":"Faf du Plessis","player_image_url":"https://example.com/players/faf_du_plessis.jpg"},
+    {"name":"Mitchell Starc","player_image_url":"https://example.com/players/mitchell_starc.jpg"},
+    {"name":"Jake Fraser-McGurk","player_image_url":"https://example.com/players/jake_fraser_mcgurk.jpg"},
+    {"name":"Karun Nair","player_image_url":"https://example.com/players/karun_nair.jpg"},
+    {"name":"Abishek Porel","player_image_url":"https://example.com/players/abishek_porel.jpg"},
+    {"name":"Tristan Stubbs","player_image_url":"https://example.com/players/tristan_stubbs.jpg"},
+    {"name":"Ashutosh Sharma","player_image_url":"https://example.com/players/ashutosh_sharma.jpg"},
+    {"name":"Sameer Rizvi","player_image_url":"https://example.com/players/sameer_rizvi.jpg"},
+    {"name":"Mohit Sharma","player_image_url":"https://example.com/players/mohit_sharma.jpg"},
+    {"name":"Mukesh Kumar","player_image_url":"https://example.com/players/mukesh_kumar.jpg"},
+    {"name":"Dushmantha Chameera","player_image_url":"https://example.com/players/dushmantha_chameera.jpg"},
+    {"name":"Kuldeep Yadav","player_image_url":"https://example.com/players/kuldeep_yadav.jpg"},
+    {"name":"Vipraj Nigam","player_image_url":"https://example.com/players/vipraj_nigam.jpg"}
+  ]
+}
+,{
+  "name": "Mumbai Indians",
+  "flag_url": "https://flagcdn.com/in.svg",
+  "squad": [
+    {"name":"Rohit Sharma","player_image_url":"https://example.com/players/rohit_sharma.jpg"},
+    {"name":"Suryakumar Yadav","player_image_url":"https://example.com/players/suryakumar_yadav.jpg"},
+    {"name":"Hardik Pandya","player_image_url":"https://example.com/players/hardik_pandya.jpg"},
+    {"name":"Jasprit Bumrah","player_image_url":"https://example.com/players/jasprit_bumrah.jpg"},
+    {"name":"Tilak Varma","player_image_url":"https://example.com/players/tilak_varma.jpg"},
+    {"name":"Trent Boult","player_image_url":"https://example.com/players/trent_boult.jpg"},
+    {"name":"Mitchell Santner","player_image_url":"https://example.com/players/mitchell_santner.jpg"},
+    {"name":"Deepak Chahar","player_image_url":"https://example.com/players/deepak_chahar.jpg"},
+    {"name":"Will Jacks","player_image_url":"https://example.com/players/will_jacks.jpg"},
+    {"name":"Ryan Rickelton","player_image_url":"https://example.com/players/ryan_rickelton.jpg"},
+    {"name":"Robin Minz","player_image_url":"https://example.com/players/robin_minz.jpg"},
+    {"name":"Naman Dhir","player_image_url":"https://example.com/players/naman_dhir.jpg"},
+    {"name":"Allah Ghazanfar","player_image_url":"https://example.com/players/allah_ghazanfar.jpg"},
+    {"name":"Reece Topley","player_image_url":"https://example.com/players/reece_topley.jpg"},
+    {"name":"Ashwani Kumar","player_image_url":"https://example.com/players/ashwani_kumar.jpg"}
+  ]
+}, {
+      "name": "Gujarat Titans",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Shubman Gill","player_image_url":"https://example.com/players/shubman_gill.jpg"},
+        {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
+        {"name":"Sai Sudharsan","player_image_url":"https://example.com/players/sai_sudharsan.jpg"},
+        {"name":"Shahrukh Khan","player_image_url":"https://example.com/players/shahrukh_khan.jpg"},
+        {"name":"Sherfane Rutherford","player_image_url":"https://example.com/players/sherfane_rutherford.jpg"},
+        {"name":"Rahul Tewatia","player_image_url":"https://example.com/players/rahul_tewatia.jpg"},
+        {"name":"Rashid Khan","player_image_url":"https://example.com/players/rashid_khan.jpg"},
+        {"name":"Kagiso Rabada","player_image_url":"https://example.com/players/kagiso_rabada.jpg"},
+        {"name":"Mohammed Siraj","player_image_url":"https://example.com/players/mohammed_siraj.jpg"},
+        {"name":"Prasidh Krishna","player_image_url":"https://example.com/players/prasidh_krishna.jpg"},
+        {"name":"Gerald Coetzee","player_image_url":"https://example.com/players/gerald_coetzee.jpg"},
+        {"name":"Arshad Khan","player_image_url":"https://example.com/players/arshad_khan.jpg"},
+        {"name":"Manav Suthar","player_image_url":"https://example.com/players/manav_suthar.jpg"},
+        {"name":"Jayant Yadav","player_image_url":"https://example.com/players/jayant_yadav.jpg"},
+        {"name":"Kumar Kushagra","player_image_url":"https://example.com/players/kumar_kushagra.jpg"}
+      ]
+    },
+    {
+      "name": "Lucknow Super Giants",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Rishabh Pant","player_image_url":"https://example.com/players/rishabh_pant.jpg"},
+        {"name":"Nicholas Pooran","player_image_url":"https://example.com/players/nicholas_pooran.jpg"},
+        {"name":"David Miller","player_image_url":"https://example.com/players/david_miller.jpg"},
+        {"name":"Aiden Markram","player_image_url":"https://example.com/players/aiden_markram.jpg"},
+        {"name":"Mitchell Marsh","player_image_url":"https://example.com/players/mitchell_marsh.jpg"},
+        {"name":"Mayank Yadav","player_image_url":"https://example.com/players/mayank_yadav.jpg"},
+        {"name":"Ravi Bishnoi","player_image_url":"https://example.com/players/ravi_bishnoi.jpg"},
+        {"name":"Avesh Khan","player_image_url":"https://example.com/players/avesh_khan.jpg"},
+        {"name":"Akash Deep","player_image_url":"https://example.com/players/akash_deep.jpg"},
+        {"name":"Abdul Samad","player_image_url":"https://example.com/players/abdul_samad.jpg"},
+        {"name":"Ayush Badoni","player_image_url":"https://example.com/players/ayush_badoni.jpg"},
+        {"name":"Shamar Joseph","player_image_url":"https://example.com/players/shamar_joseph.jpg"},
+        {"name":"Akash Singh","player_image_url":"https://example.com/players/akash_singh.jpg"},
+        {"name":"Prince Yadav","player_image_url":"https://example.com/players/prince_yadav.jpg"},
+        {"name":"Aryan Juyal","player_image_url":"https://example.com/players/aryan_juyal.jpg"}
+      ]
+    },
+    {
+      "name": "Punjab Kings",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Shreyas Iyer","player_image_url":"https://example.com/players/shreyas_iyer.jpg"},
+        {"name":"Arshdeep Singh","player_image_url":"https://example.com/players/arshdeep_singh.jpg"},
+        {"name":"Yuzvendra Chahal","player_image_url":"https://example.com/players/yuzvendra_chahal.jpg"},
+        {"name":"Marcus Stoinis","player_image_url":"https://example.com/players/marcus_stoinis.jpg"},
+        {"name":"Glenn Maxwell","player_image_url":"https://example.com/players/glenn_maxwell.jpg"},
+        {"name":"Josh Inglis","player_image_url":"https://example.com/players/josh_inglis.jpg"},
+        {"name":"Marco Jansen","player_image_url":"https://example.com/players/marco_jansen.jpg"},
+        {"name":"Nehal Wadhera","player_image_url":"https://example.com/players/nehal_wadhera.jpg"},
+        {"name":"Prabhsimran Singh","player_image_url":"https://example.com/players/prabhsimran_singh.jpg"},
+        {"name":"Priyansh Arya","player_image_url":"https://example.com/players/priyansh_arya.jpg"},
+        {"name":"Harnoor Singh","player_image_url":"https://example.com/players/harnoor_singh.jpg"},
+        {"name":"Pyla Avinash","player_image_url":"https://example.com/players/pyla_avinash.jpg"},
+        {"name":"Vishnu Vinod","player_image_url":"https://example.com/players/vishnu_vinod.jpg"},
+        {"name":"Lockie Ferguson","player_image_url":"https://example.com/players/lockie_ferguson.jpg"},
+        {"name":"Vijaykumar Vyshak","player_image_url":"https://example.com/players/vijaykumar_vyshak.jpg"}
+      ]
+    },
+    {
+      "name": "Rajasthan Royals",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Sanju Samson","player_image_url":"https://example.com/players/sanju_samson.jpg"},
+        {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
+        {"name":"Yashasvi Jaiswal","player_image_url":"https://example.com/players/yashasvi_jaiswal.jpg"},
+        {"name":"Dhruv Jurel","player_image_url":"https://example.com/players/dhruv_jurel.jpg"},
+        {"name":"Riyan Parag","player_image_url":"https://example.com/players/riyan_parag.jpg"},
+        {"name":"Shimron Hetmyer","player_image_url":"https://example.com/players/shimron_hetmyer.jpg"},
+        {"name":"Shubham Dubey","player_image_url":"https://example.com/players/shubham_dubey.jpg"},
+        {"name":"Lhuan Dre Pretorius","player_image_url":"https://example.com/players/lhuan_dre_pretorius.jpg"},
+        {"name":"Kunal Rathore","player_image_url":"https://example.com/players/kunal_rathore.jpg"},
+        {"name":"Wanindu Hasaranga","player_image_url":"https://example.com/players/wanindu_hasaranga.jpg"},
+        {"name":"Maheesh Theekshana","player_image_url":"https://example.com/players/maheesh_theekshana.jpg"},
+        {"name":"Tushar Deshpande","player_image_url":"https://example.com/players/tushar_deshpande.jpg"},
+        {"name":"Akash Madhwal","player_image_url":"https://example.com/players/akash_madhwal.jpg"},
+        {"name":"Trent Boult","player_image_url":"https://example.com/players/trent_boult.jpg"},
+        {"name":"Adam Zampa","player_image_url":"https://example.com/players/adam_zampa.jpg"}
+      ]
+    },
+    {
+      "name": "Kolkata Knight Riders",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Ajinkya Rahane","player_image_url":"https://example.com/players/ajinkya_rahane.jpg"},
+        {"name":"Rinku Singh","player_image_url":"https://example.com/players/rinku_singh.jpg"},
+        {"name":"Quinton de Kock","player_image_url":"https://example.com/players/quinton_de_kock.jpg"},
+        {"name":"Rahmanullah Gurbaz","player_image_url":"https://example.com/players/rahmanullah_gurbaz.jpg"},
+        {"name":"Venkatesh Iyer","player_image_url":"https://example.com/players/venkatesh_iyer.jpg"},
+        {"name":"Andre Russell","player_image_url":"https://example.com/players/andre_russell.jpg"},
+        {"name":"Sunil Narine","player_image_url":"https://example.com/players/sunil_narine.jpg"},
+        {"name":"Moeen Ali","player_image_url":"https://example.com/players/moeen_ali.jpg"},
+        {"name":"Harshit Rana","player_image_url":"https://example.com/players/harshit_rana.jpg"},
+        {"name":"Anukul Roy","player_image_url":"https://example.com/players/anukul_roy.jpg"},
+        {"name":"Ramandeep Singh","player_image_url":"https://example.com/players/ramandeep_singh.jpg"},
+        {"name":"Manish Pandey","player_image_url":"https://example.com/players/manish_pandey.jpg"},
+        {"name":"Mayank Markande","player_image_url":"https://example.com/players/mayank_markande.jpg"},
+        {"name":"Spencer Johnson","player_image_url":"https://example.com/players/spencer_johnson.jpg"},
+        {"name":"Umran Malik","player_image_url":"https://example.com/players/umran_malik.jpg"}
+      ]
+    },
+    {
+      "name": "Sunrisers Hyderabad",
+      "flag_url": "https://flagcdn.com/in.svg",
+      "squad": [
+        {"name":"Heinrich Klaasen","player_image_url":"https://example.com/players/heinrich_klaasen.jpg"},
+        {"name":"Travis Head","player_image_url":"https://example.com/players/travis_head.jpg"},
+        {"name":"Ishan Kishan","player_image_url":"https://example.com/players/ishan_kishan.jpg"},
+        {"name":"Abhishek Sharma","player_image_url":"https://example.com/players/abhishek_sharma.jpg"},
+        {"name":"Nitish Kumar Reddy","player_image_url":"https://example.com/players/nitish_kumar_reddy.jpg"},
+        {"name":"Mohammad Shami","player_image_url":"https://example.com/players/mohammad_shami.jpg"},
+        {"name":"Harshal Patel","player_image_url":"https://example.com/players/harshal_patel.jpg"},
+        {"name":"Rahul Chahar","player_image_url":"https://example.com/players/rahul_chahar.jpg"},
+        {"name":"Adam Zampa","player_image_url":"https://example.com/players/adam_zampa.jpg"},
+        {"name":"Atharva Taide","player_image_url":"https://example.com/players/atharva_taide.jpg"},
+        {"name":"Abhinav Manohar","player_image_url":"https://example.com/players/abhinav_manohar.jpg"},
+        {"name":"Simarjeet Singh","player_image_url":"https://example.com/players/simarjeet_singh.jpg"},
+        {"name":"Jaydev Unadkat","player_image_url":"https://example.com/players/jaydev_unadkat.jpg"},
+        {"name":"Zeeshan Ansari","player_image_url":"https://example.com/players/zeeshan_ansari.jpg"},
+        {"name":"Wiaan Mulder","player_image_url":"https://example.com/players/wiaan_mulder.jpg"}
+      ]
+    }
+
+  ]
+},
+{
+  "tournament_id": "SMAT24-25",
+  "name": "Syed Mushtaq Ali Trophy 2024–25",
+  "format": "T20",
+  "dates": "2024-11-23 to 2024-12-15",
+  "participants": 38,
+  "teams": [
+    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+  ]
+
+},{
+  "tournament_id":"RANJI25-26",
+  "name": "Ranji Trophy 2025-26",
+  "format": "Test",
+  "dates": "2024-11-23 to 2024-12-15",
+  "participants": 38,
+  "teams": [
+    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+  ]
+},{
+  "tournament_id": "VHT25-26",
+  "name": "Vijay Hazare Trophy 2025–26",
+  "format": "List A (50 overs)",
+  "participants": 38,
+  "teams": [
+    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
+    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
+    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+  ]
+},{
+  "tournament_id": "DULEEP24-25",
+  "name": "Duleep Trophy 2024–25",
+  "format": "First-class",
+  "teams": [
+    {
+      "name": "India A",
+      "captain": "Shubman Gill (later Mayank Agarwal)",
+      "squad": [
+        "Shubman Gill",
+        "Mayank Agarwal",
+        "Riyan Parag",
+        "Dhruv Jurel",
+        "KL Rahul",
+        "Tilak Varma",
+        "Shivam Dube",
+        "Tanush Kotian",
+        "Kuldeep Yadav",
+        "Akash Deep",
+        "Prasidh Krishna",
+        "Khaleel Ahmed",
+        "Avesh Khan",
+        "Vidwath Kaverappa",
+        "Kumar Kushagra",
+        "Shaswat Rawat"
+      ],
+      "player_image_urls": {} 
+    },
+    {
+      "name": "India B",
+      "captain": "Abhimanyu Easwaran",
+      "squad": [
+        "Abhimanyu Easwaran",
+        "Yashasvi Jaiswal",
+        "Sarfaraz Khan",
+        "Rishabh Pant",
+        "Musheer Khan",
+        "Nitish Kumar Reddy",
+        "Washington Sundar",
+        "Ravindra Jadeja",
+        "Mohammed Siraj",
+        "Yash Dayal",
+        "Mukesh Kumar",
+        "Rahul Chahar",
+        "R Sai Kishore",
+        "Mohit Awasthi",
+        "N Jagadeesan"
+      ],
+      "player_image_urls": {}
+    },
+    {
+      "name": "India C",
+      "captain": "Ruturaj Gaikwad",
+      "squad": [
+        "Ruturaj Gaikwad",
+        "Sai Sudharsan",
+        "Rajat Patidar",
+        "Abishek Porel",
+        "Suryakumar Yadav",
+        "Baba Indrajith",
+        "Hrithik Shokeen",
+        "Manav Suthar",
+        "Umran Malik",
+        "Vijaykumar Vyshak",
+        "Anshul Khamboj",
+        "Himanshu Chauhan",
+        "Mayank Markande",
+        "Aryan Juyal",
+        "Sandeep Warrier"
+      ],
+      "player_image_urls": {}
+    },
+    {
+      "name": "India D",
+      "captain": "Shreyas Iyer",
+      "squad": [
+        "Shreyas Iyer",
+        "Atharva Taide",
+        "Yash Dubey",
+        "Devdutt Padikkal",
+        "Ishan Kishan",
+        "Ricky Bhui",
+        "Saransh Jain",
+        "Axar Patel",
+        "Arshdeep Singh",
+        "Aditya Thakare",
+        "Harshit Rana",
+        "Tushar Deshpande",
+        "Akash Sengupta",
+        "KS Bharat",
+        "Saurabh Kumar"
+      ],
+      "player_image_urls": {}
+    }
+  ]
+},{
+  "tournament_id": "TNPL25",
+  "name": "Tamil Nadu Premier League 2025",
+  "format": "T20",
+  "teams": [
+    {
+      "name": "SKM Salem Spartans",
+      "players": ["Abishiek Selvakumar","Boopathi Kumar","Hari Nishaanth","Vivek R","Sudhan Kandepan","J Gowri Sankar","Nidhish Rajagopal","Pavithran R","S Harish Kumar","Sunny Sandhu","Eshwar M","R Kavin","Karthick Manikandan","Mohammed M","M Poiyamozhi","Rahil Shah","Rahul D","S Ajith Ram","Yazh Arun Mozhi","Himalaya"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Siechem Madurai Panthers",
+      "players": ["NS Chaturved","Shyam Sundar S","Sanjeev Kumar","Ram Arvindh","Balchander Anirudh","P Saravanan","Atheeq Ur Rahman","C Sarath Kumar","P Vignesh","S Rajalingam","Ajay Chetan J","Ganesh S","Shankar Ganesh","Murugan Ashwin","Gowtham Thamarai Kannan","Gurjapneet Singh","Karthik Meiyappan","Deepesh D","Surya Anand S","Ayush M"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Trichy Grand Cholas",
+      "players": ["U Mukilesh","Jagatheesan Kousik","Jafar Jamal","Suresh Kumar","Arya Yohan Menon","K Easwaran","SP Vinod","Sujay Sivasankaran","Sanjay Yadav","Washington Sundar","R Rajkumar","T Saran","Waseem Ahmed","Antony Dhas","M Ganesh Moorthi","V Athisayaraj Davidson","J Rejin","P Saravana Kumar","N Selva Kumaran"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Nellai Royal Kings",
+      "players": ["PS Nirmal Kumar","S Vijaya Kumar","Sachin Rathi","Rocky Bhasker","Sonu Yadav","Ajay Krishnan","Emmanuel Cherian","J Rohan","Muhammed Adnan Khan","Ajitesh Guruswamy","D Santhosh Kumar","Arun Karthik","Rithik Easwaran","NS Harish","Valliappan Yudheeswaran","Selvaganapathi S","S Risheek Kumar","Karan Sampat","Arun Bala","Athish SR"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Lyca Kovai Kings",
+      "players": ["Andre Siddarth","Balasubramaniam Sachin","Jitendra Kumar","K Vishal Vaidhya","Sai Sudharsan","Shahrukh Khan","P Vidyuth","Pradheep Vishal","Ramalingam Rohit","Madhava Prasad","Suresh Lokeshwar","Ambrish RS","B Aaditya","Govinth G","Guru Raghavendran","Jhathavedh Subramanyan","M Siddharth","N Kabilan","P Bhuvaneswaran","Ramesh Divakar"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Dindigul Dragons",
+      "players": ["Maan Bafna","R K Jayant","Shivam Singh","Vimal Khumar","Dinesh H","Hunny Saini","M Karthik Saran","Ravichandran Ashwin","Baba Indrajith","Atul Vitkar","DT Chandrasekar","Ganeshan Periyaswamy","M Viju Arul","Rajwinder Singh","Sandeep Warrier","Varun Chakravarthy"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "Chepauk Super Gillies",
+      "players": ["Vijay Shankar","Aashiq Rehman","Arjun Murthy","Abhishek Tanwar","Baba Aparajith","N Sunil Krishna","Dinesh Raj S","Kirubakar Ravinder","Prem Kumar","Rajalingam G","RS Mokit Hariharan","Swapnil Singh","Jagadeesan Narayan","R Rajan","Akram Khan","Aushik Srinivas R","M Silambarasan","Rohith Suthar","TD Lokesh Raj"],
+      "player_image_urls": {}
+    },
+    {
+      "name": "IDream Tiruppur Tamizhan",
+      "players": ["K Rajkumar","Kanibalan K","Radhakrishnan","Uthirasamy Sasidev","C V Achyuth","Daryl Ferrario","Prabanjan S","V Anovankar","Amith Sathvik","Pradosh Ranjan Paul","Tushar Raheja","Balu Surya","Esakkimuthu A","Mathivannan M","Mohamed Ali","Mohan Prasath","Pranav Raghavendra","Ragupathy Silambarasan","Sai Kishore","T Natarajan"],
+      "player_image_urls": {}
+    }
+  ]
+},{
+  "tournament_id": "MPT20-25",
+  "name": "Madhya Pradesh T20 League 2025",
+  "format": "T20",
+  "dates": "12 Jun 2025 – 24 Jun 2025",
+  "teams": [
+    {
+      "name": "Bhopal Leopards",
+      "squad": [
+        "Vikas Sharma (wk)",
+        "Siddharth Patidar",
+        "Ankush Singh",
+        "Aniket Verma",
+        "Gautam Raghuwanshi",
+        "Suraj Yadav",
+        "Rakesh Thakur (wk)",
+        "Mangesh Yadav",
+        "Mihir Hirwani",
+        "Arshad Khan",
+        "Kamal Tripathi",
+        "Harsh Gawli (wk)",
+        "Aviral Singh",
+        "Priyanshu Shukla",
+        "Madhav Tiwari"
+      ]
+    },
+    {
+      "name": "Bundelkhand Bulls",
+      "squad": [
+        "Aman Solanki",
+        "Vivek Sharma",
+        "Shantanu Raghuvanshi",
+        "Avesh Khan",
+        "Abhishek Pathak",
+        "Harsh Gawli",
+        "Aryan Tiwari",
+        "Divyanshu Yadav",
+        "Karan Tahliyani",
+        "Priyanshu Shukla",
+        "Somu Singh Sikarwar",
+        "Abhisekh Mavi",
+        "Sagar Sharma",
+        "Saumy Pandey",
+        "Somu Singh Sikarwar"
+      ]
+    },
+    {
+      "name": "Chambal Ghariyals",
+      "squad": [
+        "Harpreet Singh",
+        "Shubham Sharma",
+        "Rudransh Singh",
+        "Apoorve Dwivedi",
+        "Suraj Sengar",
+        "Akash Rajawat",
+        "Raj Dabi",
+        "Pankaj Sharma",
+        "Vineet Rawat",
+        "Tripuresh Singh",
+        "Notably others per squad lists"
+      ]
+    },
+    {
+      "name": "Gwalior Cheetahs",
+      "squad": [
+        "Rajat Patidar",
+        "Varun Shinde",
+        "Harshvardhan Hardia",
+        "Rishabh Chouhan",
+        "Ajay Mishra",
+        "Anvesh Chawla",
+        "Mangesh Yadav",
+        "Parth Chaudhary",
+        "Parth Sahani",
+        "Akash Raghuvanshi",
+        "Vikas Sharma",
+        "Nayanraj Mewada",
+        "Kuldeep Sen",
+        "Vineet Rawat",
+        "Rakesh Thakur"
+      ]
+    },
+    {
+      "name": "Indore Pink Panthers",
+      "squad": [
+        "Akhil Yadav",
+        "Akshat Raghuwanshi",
+        "Aman Jain",
+        "Shubham Rathore",
+        "Lucky Mishra",
+        "Venkatesh Iyer",
+        "Arpit Gaud",
+        "Ankur Singh Chauhan",
+        "Mehfooz Patel",
+        "Mihir Hirwani",
+        "Kulwant Khejroliya",
+        "Aviral Singh",
+        "Vikrant Bhadoriya",
+        "Akhil Yadav",
+        "Rahul Chandrol"
+      ]
+    },
+    {
+      "name": "Jabalpur Royal Lions",
+      "squad": [
+        "Adheer Pratap Singh",
+        "Atul Kushwah",
+        "Anubhav Agarwal",
+        "Prabhanshu Shukla",
+        "Saransh Jain",
+        "Ritesh Shakya",
+        "Sanjog Singh",
+        "Taanishq Yadav",
+        "Abhishek Bhandari",
+        "Siddharth Patidar",
+        "Siddharth",
+        "others per lists"
+      ]
+    },
+    {
+      "name": "Rewa Jaguars",
+      "squad": [
+        "Prithviraj Singh Tomar",
+        "Jaydev Singh",
+        "Atharv Mahajan",
+        "Mukul Raghav",
+        "Parth Goswami",
+        "Himanshu Mantri",
+        "Aryan Deshmukh",
+        "Kanishk Dubey",
+        "Piyush Tiwari",
+        "Akhshay Singh",
+        "Chanchal Rathore",
+        "Ramveer Gujjar",
+        "others per complete list"
+      ]
+    }
+  ]
+}
+,{
+  "tournament_id": "MPL25",
+  "name": "Madhya Pradesh Premier League 2025",
+  "format": "T20",
+  "dates": "2025-06-12 to 2025-06-24",
+  "venue": "Shrimant Madhavrao Scindia Stadium, Gwalior",
+  "teams": [
+    {
+      "name": "Ratnagiri Jets",
+      "captain": "Azim Kazi",
+      "squad": [
+        "Azim Kazi", "Jay Pande", "Joeruebenson Pardeshi", "Siddhant Giri",
+        "Harshil Sawant", "Manoj Yadav", "Prathamesh Gawade", "Ajinkya Naik",
+        "Krushna Martand", "Abhimanyu Jadhav", "Samarth Kadam", "Atish Rathod",
+        "Krish Shahapurkar", "Yashwant Kale", "Ashkan Kazi"
+      ]
+    },
+    {
+      "name": "Eagle Nashik Titans",
+      "captain": "Mukesh Choudhary",
+      "squad": [
+        "Mukesh Choudhary", "Akshay Waikar", "Arshin Kulkarni", "Atharva Kale",
+        "Digvijay Deshmukh", "Hari Sawant", "Kaushal Tambe", "Mandar Bhandari",
+        "Prashant Solanki", "Ranjit Nikam", "Razeq Fallah", "Sahil Parakh",
+        "Siddhant Doshi", "Yogesh Dongre", "Manoj Ingale"
+      ]
+    },
+    {
+      "name": "Puneri Bappa",
+      "captain": "Ruturaj Gaikwad",
+      "squad": [
+        "Ruturaj Gaikwad", "Aayush Raktade", "Neel Gandhi", "Ramakrishna Ghosh",
+        "Rohan Kharat", "Roshan Waghsare", "Sachin Bhosale", "Sahil Autade",
+        "Suraj Shinde", "Yash Kshirsagar", "Yash Nahar", "Rushikesh Sonawane",
+        "Murtaza Trunkwala", "Nikit Dhumal", "Naushad Shaikh"
+      ]
+    },
+    {
+      "name": "Raigad Royals",
+      "captain": "Vishant More",
+      "squad": [
+        "Vishant More", "Vicky Otswal", "Rushabh Rathod", "Vaibhav Agam",
+        "Ajay Borude", "Onkar Rajput", "Siddhesh Veer", "Tanay Sanghvi",
+        "Digvijay Patil", "Snehal Kamankar", "Savya Gajraj", "Nikhil Kadam",
+        "Nadeem Shaikh", "Neeraj Joshi", "Shubham Kadam"
+      ]
+    },
+    {
+      "name": "Satara Warriors",
+      "captain": "Rajvardhan Hangargekar",
+      "squad": [
+        "Rajvardhan Hangargekar", "Harshal Kate", "Om Bhosale", "Saurabh Nawale",
+        "Mehul Patel", "Shamshuzama Kazi", "Pawan Shah", "Jagdish Zope",
+        "Sunny Pandit", "Swaraj Chavan", "Vaibhav Chougule", "Aniket Porwal",
+        "Saurabh Shevalkar", "Aniruddha Sable", "Vaibhav Dhurgunde"
+      ]
+    },
+    {
+      "name": "PBG Kolhapur Tuskers",
+      "captain": "Rahul Tripathi",
+      "squad": [
+        "Rahul Tripathi", "Ankeet Bawne", "Atharva Wanve", "Sachin Dhas",
+        "Shreyas Chavan", "Shrikant Mundhe", "Siddharth Mhatre", "Rajneesh Gurbani",
+        "Atman Pore", "Dhanraj Shinde", "Digvijay Jadhav", "Vishant More",
+        "Nilay Newaskar", "Deepak Dangi", "Sumit Dhengle"
+      ]
+    }
+  ]
+}
+
+]

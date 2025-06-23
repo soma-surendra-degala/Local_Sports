@@ -1,0 +1,110 @@
+[
+    {
+      "id": "ICC-CT25",
+      "name": "ICC Men's Champions Trophy 2025",
+      "format": "ODI",
+      "hostCountry": "Pakistan / UAE (for India matches)",
+      "startDate": "2025-02-19",
+      "endDate": "2025-03-09",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1K7.png?impolicy=default_web"
+    },
+    {
+      "id": "ICC-WW25",
+      "name": "ICC Women's Cricket World Cup 2025",
+      "format": "ODI",
+      "hostCountry": "India / Sri Lanka",
+      "startDate": "2025-09-30",
+      "endDate": "2025-11-02",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1NW.png?impolicy=default_web"
+    },
+    {
+      "id": "ASHES25-26",
+      "name": "The Ashes 2025-26",
+      "format": "Test",
+      "hostCountry": "Australia",
+      "startDate": "2025-11-21",
+      "endDate": "2026-01-08",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1OY.png?impolicy=default_web"
+    },
+    {
+      "id": "ICC-WTCF25",
+      "name": "ICC World Test Championship Final 2025",
+      "format": "Test",
+      "hostCountry": "England",
+      "startDate": "2025-06-11",
+      "endDate": "2025-06-15",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1OB.png?impolicy=default_web"
+    },
+    {
+      "id": "IPL25",
+      "name": "Indian Premier League (IPL) 2025",
+      "format": "T20",
+      "hostCountry": "India",
+      "startDate": "2025-03-22",
+      "endDate": "2025-05-25",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1PD.png?impolicy=default_web"
+    },
+    {
+      "id": "SMAT25-26",
+      "name": "Syed Mushtaq Ali Trophy 2025-26",
+      "format": "T20",
+      "hostCountry": "India",
+      "startDate": "2025-11-26",
+      "endDate": "2025-12-18",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1M2.png?impolicy=default_web"
+    },
+    {
+      "id": "RANJI25-26",
+      "name": "Ranji Trophy 2025-26",
+      "format": "First-Class",
+      "hostCountry": "India",
+      "startDate": "2025-10-15",
+      "endDate": "2026-02-28",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1M5.png?impolicy=default_web"
+    },
+    {
+      "id": "VHT25-26",
+      "name": "Vijay Hazare Trophy 2025-26",
+      "format": "List A",
+      "hostCountry": "India",
+      "startDate": "2025-12-24",
+      "endDate": "2026-01-18",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1M1.png?impolicy=default_web"
+    },
+    {
+      "id": "DULEEP24-25",
+      "name": "Duleep Trophy 2025-26",
+      "format": "First-Class",
+      "hostCountry": "India",
+      "startDate": "2025-08-28",
+      "endDate": "2025-09-15",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1LY.png?impolicy=default_web"
+    },
+    {
+      "id": "TNPL2025",
+      "name": "Tamil Nadu Premier League (TNPL) 2025",
+      "format": "T20",
+      "hostCountry": "India (Tamil Nadu)",
+      "startDate": "2025-06-05",
+      "endDate": "2025-07-06",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1U9.png?impolicy=default_web"
+    },
+    {
+      "id": "MPT20-25",
+      "name": "Madhya Pradesh T20(Mp T20) 2025",
+      "format": "T20",
+      "hostCountry": "India (Madhya Pradesh)",
+      "startDate": "2025-08-23",
+      "endDate": "2025-09-01",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1U7.png?impolicy=default_web"
+    },
+    {
+      "id": "MPL25",
+      "name": "Maharashtra Premier League (MPL) 2025",
+      "format": "T20",
+      "hostCountry": "India (Maharashtra)",
+      "startDate": "2025-06-04",
+      "endDate": "2025-06-22",
+      "logoUrl": "https://cricketvectors.akamaized.net/Series/1SX.png?impolicy=default_web"
+    }
+  ]
