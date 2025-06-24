@@ -1,7 +1,7 @@
 import React from 'react';
 import tournamentsData from 'C:/Users/surid/Desktop/Local Sports/frontend/src/data/tournaments.json';
 import '../Tournaments/tournaments.css'
-import { useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 
 function Tournaments() {
@@ -9,8 +9,12 @@ function Tournaments() {
      const navigate = useNavigate();
 
      const handleClick = (id) => {
-        navigate(`/Tornaments/${id}`);
+        navigate(`/Tournaments/${id}`);
       };
+
+      <Link to={`/matches`} state={{ id: tournamentsData.id }}>
+  View Matches
+</Link>
 
   return (
     

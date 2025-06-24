@@ -14,13 +14,17 @@ function SwipeToSlide() {
     slidesToShow: 3,
     slidesToScroll: 3
   };
+  const filteredData = matchesData.filter(date=> {
+    const currentDate = new Date();
+    const matchDate = new Date(date.date);
+    return matchDate >= currentDate;})
   return (
     <div className="container">
         <h1 className="mt-2">TNPL 2025 Match Schedule</h1>  
         <div className="slider-container item">
         <Slider {...settings}>
                    
-             {matchesData.map((match, index) => (
+             {filteredData.map((match, index) => (
               <div className="card card-background rounded p-3 m-3">
               <div className="d-flex align-items-center m-1">
               <div>{match.date}</div>

@@ -5,6 +5,7 @@ import Home from './pages/Home/Home';
 import TournamentsPage from './pages/Tournaments/tournamentsPage';
 import MatchesList from './pages/MatchesList/matchesList';
 import TeamsList from './pages/TeamsList/TeamsList';
+import FilterList from './pages/FilterList/FilterList';
 
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
       <Route path='/' element={<Home />}/>
       <Route path='/Home' element={<Home />}/>
        <Route path='/Tournaments' element={<TournamentsPage />}/>
-       <Route path='/Tournaments/:tournamentId' element={<MatchesList/>}/>
+       <Route path='/Tournaments/:tournament_id' element={<FilterList/>}/>
        <Route path='/Matches' element={<MatchesList />}/>
        <Route path='/Teams' element={<TeamsList />}/>
       </Routes>    
