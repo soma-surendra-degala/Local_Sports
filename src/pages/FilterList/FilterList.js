@@ -1,27 +1,29 @@
-import React from 'react'
-import Header from '../../Component/Header/header'
+import React from 'react';
+import { useParams } from 'react-router-dom';
+import Header from '../../Component/Header/header';
 import matchesData from '../../data/matches.json';
 import tournamentsData from '../../data/tournaments.json';
 
 function FilterList() {
-     const filteredData = tournamentsData.map(tournament => {
-         const associatedMatches = matchesData.filter(match => match.tournament_id === tournament.id);
-         return{
-            ...tournament,
-            matches: associatedMatches
-          };
-  });   
+  const { tournamentId } = useParams(); // <-- Get from URL
 
-     
+  const tournament = tournamentsData.find(t => t.id === tournamentId);
+  const filteredMatches = matchesData.filter(
+    match => match.tournament_id === tournamentId
+  );
+
+
   return (
-    
     <div>
-        <div>
-            <Header />
-        </div>
-        <div>
-            {filteredData.map((match) => (
-                <div>
+      <Header />
+      <div className="container mt-4">
+        <h2 className="fw-bold mb-3">{tournament?.name || 'Unknown Tournament'} Matches</h2>
+
+        {filteredMatches.length === 0 ? (
+          <p>No matches found for this tournament.</p>
+        ) : (
+          filteredMatches.map(match => (
+            <div>
                     <div key={match.id} className='container mt-4'>
                         <div className='fs-4 fw-bold'>
                             {match.date}
@@ -52,10 +54,11 @@ function FilterList() {
                         </div>
                     </div>
 
-                </div>))}
-        </div>
+                </div> )))}
+        
+      </div>
     </div>
-  )
+  );
 }
 
-export default FilterList
+export default FilterList;

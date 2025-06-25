@@ -11,10 +11,7 @@ function Tournaments() {
      const handleClick = (id) => {
         navigate(`/Tournaments/${id}`);
       };
-
-      <Link to={`/matches`} state={{ id: tournamentsData.id }}>
-  View Matches
-</Link>
+      <Link to={`/Tournaments/${tournamentsData.id}`}>{tournamentsData.name}</Link>
 
   return (
     

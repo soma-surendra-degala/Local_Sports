@@ -6,6 +6,7 @@ import Footer from '../../Component/Footer/footer';
 function TournamentsPage() {
   return (
     <div>
+      
         <div>
             <Header/>
         </div>
