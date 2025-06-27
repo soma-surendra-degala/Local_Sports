@@ -3,29 +3,29 @@
   "tournament_id": "ICC-CT25",
   "teams": [
      {
-      "name": "India",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "India",
+      "logo_imgurl": "https://flagcdn.com/in.svg",
       "squad": [
-        {"name":"Rohit Sharma","player_image_url":"https://example.com/players/rohit_sharma.jpg"},
-        {"name":"Shubman Gill","player_image_url":"https://example.com/players/shubman_gill.jpg"},
-        {"name":"Yashasvi Jaiswal","player_image_url":"https://example.com/players/yashasvi_jaiswal.jpg"},
-        {"name":"Virat Kohli","player_image_url":"https://example.com/players/virat_kohli.jpg"},
-        {"name":"Shreyas Iyer","player_image_url":"https://example.com/players/shreyas_iyer.jpg"},
-        {"name":"KL Rahul","player_image_url":"https://example.com/players/kl_rahul.jpg"},
-        {"name":"Rishabh Pant","player_image_url":"https://example.com/players/rishabh_pant.jpg"},
-        {"name":"Hardik Pandya","player_image_url":"https://example.com/players/hardik_pandya.jpg"},
-        {"name":"Axar Patel","player_image_url":"https://example.com/players/axar_patel.jpg"},
-        {"name":"Washington Sundar","player_image_url":"https://example.com/players/washington_sundar.jpg"},
-        {"name":"Ravindra Jadeja","player_image_url":"https://example.com/players/ravindra_jadeja.jpg"},
-        {"name":"Varun Chakravarthy","player_image_url":"https://example.com/players/varun_chakravarthy.jpg"},
-        {"name":"Mohammed Shami","player_image_url":"https://example.com/players/mohammed_shami.jpg"},
-        {"name":"Arshdeep Singh","player_image_url":"https://example.com/players/arshdeep_singh.jpg"},
-        {"name":"Harshit Rana","player_image_url":"https://example.com/players/harshit_rana.jpg"}
+        {"name":"Rohit Sharma","player_image_url":"https://documents.bcci.tv/resizedimageskirti/107_compress.png"},
+        {"name":"Shubman Gill","player_image_url":"https://documents.bcci.tv/resizedimageskirti/3761_compress.png"},
+        {"name":"Yashasvi Jaiswal","player_image_url":"https://documents.bcci.tv/resizedimageskirti/11086_compress.png"},
+        {"name":"Virat Kohli","player_image_url":"https://documents.bcci.tv/resizedimageskirti/164_compress.png"},
+        {"name":"Shreyas Iyer","player_image_url":"https://documents.bcci.tv/resizedimageskirti/1563_compress.png"},
+        {"name":"KL Rahul","player_image_url":"https://documents.bcci.tv/resizedimageskirti/1125_compress.png"},
+        {"name":"Rishabh Pant","player_image_url":"https://documents.bcci.tv/resizedimageskirti/2972_compress.png"},
+        {"name":"Hardik Pandya","player_image_url":"https://documents.bcci.tv/resizedimageskirti/2740_compress.png"},
+        {"name":"Axar Patel","player_image_url":"https://documents.bcci.tv/resizedimageskirti/1113_compress.png"},
+        {"name":"Washington Sundar","player_image_url":"https://documents.bcci.tv/resizedimageskirti/2973_compress.png"},
+        {"name":"Ravindra Jadeja","player_image_url":"https://documents.bcci.tv/resizedimageskirti/9_compress.png"},
+        {"name":"Varun Chakravarthy","player_image_url":"https://documents.bcci.tv/playerheadshot/bcci/1000*1280/11100.png"},
+        {"name":"Mohammed Shami","player_image_url":"https://documents.bcci.tv/resizedimageskirti/94_compress.png"},
+        {"name":"Arshdeep Singh","player_image_url":"https://documents.bcci.tv/resizedimageskirti/65_compress.png"},
+        {"name":"Harshit Rana","player_image_url":"https://bcciplayerimages-v2.s3.amazonaws.com/resizedimageskirti/11108_compress.png"}
       ]
     },
     {
-      "name": "Australia",
-      "flag_url": "https://flagcdn.com/au.svg",
+      "teamName": "Australia",
+      "logo_imgurl": "https://flagcdn.com/au.svg",
       "squad": [
         {"name":"Steve Smith","player_image_url":"https://example.com/players/steve_smith.jpg"},
         {"name":"Sean Abbott","player_image_url":"https://example.com/players/sean_abbott.jpg"},
@@ -46,8 +46,8 @@
       "reserve": "Cooper Connolly"
     },
     {
-      "name": "England",
-      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "teamName": "England",
+      "logo_imgurl": "https://flagcdn.com/gb-eng.svg",
       "squad": [
         {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
         {"name":"Jofra Archer","player_image_url":"https://example.com/players/jofra_archer.jpg"},
@@ -67,8 +67,8 @@
       ]
     },
     {
-      "name": "South Africa",
-      "flag_url": "https://flagcdn.com/za.svg",
+      "teamName": "South-Africa",
+      "logo_imgurl": "https://flagcdn.com/za.svg",
       "squad": [
         {"name":"Temba Bavuma","player_image_url":"https://example.com/players/temba_bavuma.jpg"},
         {"name":"Tony de Zorzi","player_image_url":"https://example.com/players/tony_de_zorzi.jpg"},
@@ -88,8 +88,8 @@
       ]
     },
     {
-      "name": "Pakistan",
-      "flag_url": "https://flagcdn.com/pk.svg",
+      "teamName": "Pakistan",
+      "logo_imgurl": "https://flagcdn.com/pk.svg",
       "squad": [
         {"name":"Mohammad Rizwan","player_image_url":"https://example.com/players/mohammad_rizwan.jpg"},
         {"name":"Babar Azam","player_image_url":"https://example.com/players/babar_azam.jpg"},
@@ -109,8 +109,8 @@
       ]
     },
     {
-      "name": "Bangladesh",
-      "flag_url": "https://flagcdn.com/bd.svg",
+      "teamName": "Bangladesh",
+      "logo_imgurl": "https://flagcdn.com/bd.svg",
       "squad": [
         {"name":"Nazmul Hossain Shanto","player_image_url":"https://example.com/players/nazmul_shanto.jpg"},
         {"name":"Soumya Sarkar","player_image_url":"https://example.com/players/soumya_sarkar.jpg"},
@@ -130,8 +130,8 @@
       ]
     },
     {
-      "name": "New Zealand",
-      "flag_url": "https://flagcdn.com/nz.svg",
+      "teamName": "New-Zealand",
+      "logo_imgurl": "https://flagcdn.com/nz.svg",
       "squad": [
         {"name":"Mitchell Santner","player_image_url":"https://example.com/players/mitchell_santner.jpg"},
         {"name":"Michael Bracewell","player_image_url":"https://example.com/players/michael_bracewell.jpg"},
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "name": "Afghanistan",
-      "flag_url": "https://flagcdn.com/af.svg",
+      "teamName": "Afghanistan",
+      "logo_imgurl": "https://flagcdn.com/af.svg",
       "squad": [
         {"name":"Hashmatullah Shahidi","player_image_url":"https://example.com/players/hashmatullah_shahidi.jpg"},
         {"name":"Ibrahim Zadran","player_image_url":"https://example.com/players/ibrahim_zadran.jpg"},
@@ -170,7 +170,47 @@
         {"name":"Farid Malik","player_image_url":"https://example.com/players/farid_malik.jpg"},
         {"name":"Naveed Zadran","player_image_url":"https://example.com/players/naveed_zadran.jpg"}
       ]
-    }
+    },{
+  "teamName": "Sri-Lanka",
+  "logo_imgurl": "https://flagcdn.com/lk.svg",
+  "squad": [
+    {"name": "Dasun Shanaka (c)", "player_image_url": "https://example.com/players/dasun_shanaka.jpg"},
+    {"name": "Pathum Nissanka", "player_image_url": "https://example.com/players/pathum_nissanka.jpg"},
+    {"name": "Kusal Mendis (wk)", "player_image_url": "https://example.com/players/kusal_mendis.jpg"},
+    {"name": "Charith Asalanka", "player_image_url": "https://example.com/players/charith_asalanka.jpg"},
+    {"name": "Dhananjaya de Silva", "player_image_url": "https://example.com/players/dhananjaya_de_silva.jpg"},
+    {"name": "Wanindu Hasaranga", "player_image_url": "https://example.com/players/wanindu_hasaranga.jpg"},
+    {"name": "Chamika Karunaratne", "player_image_url": "https://example.com/players/chamika_karunaratne.jpg"},
+    {"name": "Maheesh Theekshana", "player_image_url": "https://example.com/players/maheesh_theekshana.jpg"},
+    {"name": "Dushmantha Chameera", "player_image_url": "https://example.com/players/dushmantha_chameera.jpg"},
+    {"name": "Lahiru Kumara", "player_image_url": "https://example.com/players/lahiru_kumara.jpg"},
+    {"name": "Nuwan Thushara", "player_image_url": "https://example.com/players/nuwan_thushara.jpg"},
+    {"name": "Angelo Mathews", "player_image_url": "https://example.com/players/angelo_mathews.jpg"},
+    {"name": "Avishka Fernando", "player_image_url": "https://example.com/players/avishka_fernando.jpg"},
+    {"name": "Bhanuka Rajapaksa", "player_image_url": "https://example.com/players/bhanuka_rajapaksa.jpg"},
+    {"name": "Dunith Wellalage", "player_image_url": "https://example.com/players/dunith_wellalage.jpg"}
+  ]
+},{
+  "teamName": "West-Indies",
+  "logo_imgurl": "https://flagcdn.com/wb.svg",
+  "squad": [
+    {"name": "Rovman Powell (c)", "player_image_url": "https://example.com/players/rovman_powell.jpg"},
+    {"name": "Shai Hope (wk)", "player_image_url": "https://example.com/players/shai_hope.jpg"},
+    {"name": "Nicholas Pooran", "player_image_url": "https://example.com/players/nicholas_pooran.jpg"},
+    {"name": "Brandon King", "player_image_url": "https://example.com/players/brandon_king.jpg"},
+    {"name": "Shimron Hetmyer", "player_image_url": "https://example.com/players/shimron_hetmyer.jpg"},
+    {"name": "Jason Holder", "player_image_url": "https://example.com/players/jason_holder.jpg"},
+    {"name": "Romario Shepherd", "player_image_url": "https://example.com/players/romario_shepherd.jpg"},
+    {"name": "Akeal Hosein", "player_image_url": "https://example.com/players/akeal_hosein.jpg"},
+    {"name": "Alzarri Joseph", "player_image_url": "https://example.com/players/alzarri_joseph.jpg"},
+    {"name": "Gudakesh Motie", "player_image_url": "https://example.com/players/gudakesh_motie.jpg"},
+    {"name": "Obed McCoy", "player_image_url": "https://example.com/players/obed_mccoy.jpg"},
+    {"name": "Kyle Mayers", "player_image_url": "https://example.com/players/kyle_mayers.jpg"},
+    {"name": "Sherfane Rutherford", "player_image_url": "https://example.com/players/sherfane_rutherford.jpg"},
+    {"name": "Hayden Walsh Jr", "player_image_url": "https://example.com/players/hayden_walsh.jpg"},
+    {"name": "Jayden Seales", "player_image_url": "https://example.com/players/jayden_seales.jpg"}
+  ]
+}
   ]
 },
 {
@@ -178,8 +218,8 @@
   "tournament_id": "ICC-WW25",
   "teams": [
     {
-      "name": "Australia",
-      "flag_url": "https://flagcdn.com/au.svg",
+      "teamName": "Australia",
+      "logo_imgurl": "https://flagcdn.com/au.svg",
       "squad": [
         {"name":"Alyssa Healy","player_image_url":"https://example.com/players/alyssa_healy.jpg"},
         {"name":"Darcie Brown","player_image_url":"https://example.com/players/darcie_brown.jpg"},
@@ -199,8 +239,8 @@
       ]
     },
     {
-      "name": "India",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "India",
+      "logo_imgurl": "https://flagcdn.com/in.svg",
       "squad": [
         {"name":"Harmanpreet Kaur","player_image_url":"https://example.com/players/harmanpreet_kaur.jpg"},
         {"name":"Smriti Mandhana","player_image_url":"https://example.com/players/smriti_mandhana.jpg"},
@@ -221,8 +261,8 @@
       "reserves": ["Uma Chetry", "Tanuja Kanwer", "Saima Thakor"]
     },
     {
-      "name": "New Zealand",
-      "flag_url": "https://flagcdn.com/nz.svg",
+      "teamName": "New Zealand",
+      "logo_imgurl": "https://flagcdn.com/nz.svg",
       "squad": [
         {"name":"Sophie Devine","player_image_url":"https://example.com/players/sophie_devine.jpg"},
         {"name":"Suzie Bates","player_image_url":"https://example.com/players/suzie_bates.jpg"},
@@ -242,8 +282,8 @@
       ]
     },
     {
-      "name": "Pakistan",
-      "flag_url": "https://flagcdn.com/pk.svg",
+      "teamName": "Pakistan",
+      "logo_imgurl": "https://flagcdn.com/pk.svg",
       "squad": [
         {"name":"Fatima Sana","player_image_url":"https://example.com/players/fatima_sana.jpg"},
         {"name":"Aliya Riaz","player_image_url":"https://example.com/players/aliya_riaz.jpg"},
@@ -265,7 +305,7 @@
     },
     {
       "name": "England",
-      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "logo_imgurl": "https://flagcdn.com/gb-eng.svg",
       "squad": [
         {"name":"Heather Knight","player_image_url":"https://example.com/players/heather_knight.jpg"},
         {"name":"Danni Wyatt","player_image_url":"https://example.com/players/danni_wyatt.jpg"},
@@ -285,8 +325,8 @@
       ]
     },
     {
-      "name": "South Africa",
-      "flag_url": "https://flagcdn.com/za.svg",
+      "teamName": "South Africa",
+      "logo_imgurl": "https://flagcdn.com/za.svg",
       "squad": [
         {"name":"Laura Wolvaardt","player_image_url":"https://example.com/players/laura_wolvaardt.jpg"},
         {"name":"Anneke Bosch","player_image_url":"https://example.com/players/anneke_bosch.jpg"},
@@ -306,8 +346,8 @@
       ]
     },
     {
-      "name": "West Indies",
-      "flag_url": "https://flagcdn.com/tt.svg",
+      "teamName": "West Indies",
+      "logo_imgurl": "https://flagcdn.com/tt.svg",
       "squad": [
         {"name":"Hayley Matthews","player_image_url":"https://example.com/players/hayley_matthews.jpg"},
         {"name":"Aaliyah Alleyne","player_image_url":"https://example.com/players/aaliyah_alleyne.jpg"},
@@ -327,8 +367,8 @@
       ]
     },
     {
-      "name": "Bangladesh",
-      "flag_url": "https://flagcdn.com/bd.svg",
+      "teamName": "Bangladesh",
+      "logo_imgurl": "https://flagcdn.com/bd.svg",
       "squad": [
         {"name":"Nigar Sultana","player_image_url":"https://example.com/players/nigar_sultana.jpg"},
         {"name":"Nahida Akter","player_image_url":"https://example.com/players/nahida_akter.jpg"},
@@ -348,8 +388,8 @@
       ]
     },
     {
-      "name": "Sri Lanka",
-      "flag_url": "https://flagcdn.com/lk.svg",
+      "teamName": "Sri Lanka",
+      "logo_imgurl": "https://flagcdn.com/lk.svg",
       "squad": [
         {"name":"Chamari Athapaththu","player_image_url":"https://example.com/players/chamari_athapaththu.jpg"},
         {"name":"Anushka Sanjeewani","player_image_url":"https://example.com/players/anushka_sanjeewani.jpg"},
@@ -369,8 +409,8 @@
       ]
     },
     {
-      "name": "Scotland",
-      "flag_url": "https://flagcdn.com/gb-sct.svg",
+      "teamName": "Scotland",
+      "logo_imgurl": "https://flagcdn.com/gb-sct.svg",
       "squad": [
         {"name":"Kathryn Bryce","player_image_url":"https://example.com/players/kathryn_bryce.jpg"},
         {"name":"Sarah Bryce","player_image_url":"https://example.com/players/sarah_bryce.jpg"},
@@ -397,8 +437,8 @@
   "format": "Test",
   "teams": [
     {
-      "name": "Australia",
-      "flag_url": "https://flagcdn.com/au.svg",
+      "teamName": "Australia",
+      "logo_imgurl": "https://flagcdn.com/au.svg",
       "squad": [
         {"name": "Pat Cummins", "player_image_url": "https://example.com/players/pat_cummins.jpg"},
         {"name": "Steve Smith", "player_image_url": "https://example.com/players/steve_smith.jpg"},
@@ -418,8 +458,8 @@
       ]
     },
     {
-      "name": "England",
-      "flag_url": "https://flagcdn.com/gb-eng.svg",
+      "teamName": "England",
+      "logo_imgurl": "https://flagcdn.com/gb-eng.svg",
       "squad": [
         {"name": "Ben Stokes", "player_image_url": "https://example.com/players/ben_stokes.jpg"},
         {"name": "Joe Root", "player_image_url": "https://example.com/players/joe_root.jpg"},
@@ -447,8 +487,8 @@
   "dates": "2025-06-11 to 2025-06-15",
   "teams": [
     {
-      "name": "Australia",
-      "flag_url": "https://flagcdn.com/au.svg",
+      "teamName": "Australia",
+      "logo_imgurl": "https://flagcdn.com/au.svg",
       "captain": "Pat Cummins",
       "squad": [
         { "name": "Pat Cummins", "player_image_url": "https://example.com/players/pat_cummins.jpg" },
@@ -470,8 +510,8 @@
       "reserve": { "name": "Brendan Doggett", "player_image_url": "https://example.com/players/brendan_doggett.jpg" }
     },
     {
-      "name": "South Africa",
-      "flag_url": "https://flagcdn.com/za.svg",
+      "teamName": "South Africa",
+      "logo_imgurl": "https://flagcdn.com/za.svg",
       "captain": "Temba Bavuma",
       "squad": [
         { "name": "Temba Bavuma", "player_image_url": "https://example.com/players/temba_bavuma.jpg" },
@@ -499,8 +539,8 @@
   "format": "T20",
   "teams": [
     {
-      "name": "Royal Challengers Bengaluru",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Royal-Challengers-Bengaluru",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Royal_Challengers_Bengaluru_Logo.svg",
       "squad": [
         {"name":"Virat Kohli","player_image_url":"https://example.com/players/virat_kohli.jpg"},
         {"name":"Rajat Patidar","player_image_url":"https://example.com/players/rajat_patidar.jpg"},
@@ -520,8 +560,8 @@
       ]
     },
     {
-      "name": "Chennai Super Kings",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Chennai-Super-Kings",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/2/2b/Chennai_Super_Kings_Logo.svg",
       "squad": [
         {"name":"MS Dhoni","player_image_url":"https://example.com/players/ms_dhoni.jpg"},
         {"name":"Ravindra Jadeja","player_image_url":"https://example.com/players/ravindra_jadeja.jpg"},
@@ -543,8 +583,8 @@
         {"name":"Shaik Rasheed","player_image_url":"https://example.com/players/shaik_rasheed.jpg"}
       ]
     },{
-  "name": "Delhi Capitals",
-  "flag_url": "https://flagcdn.com/in.svg",
+  "teamName": "Delhi-Capitals",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Delhi_Capitals.svg",
   "squad": [
     {"name":"Axar Patel","player_image_url":"https://example.com/players/axar_patel.jpg"},
     {"name":"KL Rahul","player_image_url":"https://example.com/players/kl_rahul.jpg"},
@@ -564,8 +604,8 @@
   ]
 }
 ,{
-  "name": "Mumbai Indians",
-  "flag_url": "https://flagcdn.com/in.svg",
+  "teamName": "Mumbai-Indians",
+  "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Mumbai_Indians_Logo.svg",
   "squad": [
     {"name":"Rohit Sharma","player_image_url":"https://example.com/players/rohit_sharma.jpg"},
     {"name":"Suryakumar Yadav","player_image_url":"https://example.com/players/suryakumar_yadav.jpg"},
@@ -584,8 +624,8 @@
     {"name":"Ashwani Kumar","player_image_url":"https://example.com/players/ashwani_kumar.jpg"}
   ]
 }, {
-      "name": "Gujarat Titans",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Gujarat-Titans",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/0/09/Gujarat_Titans_Logo.svg",
       "squad": [
         {"name":"Shubman Gill","player_image_url":"https://example.com/players/shubman_gill.jpg"},
         {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
@@ -605,8 +645,8 @@
       ]
     },
     {
-      "name": "Lucknow Super Giants",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Lucknow-Super-Giants",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/a/a9/Lucknow_Super_Giants_IPL_Logo.svg",
       "squad": [
         {"name":"Rishabh Pant","player_image_url":"https://example.com/players/rishabh_pant.jpg"},
         {"name":"Nicholas Pooran","player_image_url":"https://example.com/players/nicholas_pooran.jpg"},
@@ -626,8 +666,8 @@
       ]
     },
     {
-      "name": "Punjab Kings",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Punjab-Kings",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Punjab_Kings_Logo.svg",
       "squad": [
         {"name":"Shreyas Iyer","player_image_url":"https://example.com/players/shreyas_iyer.jpg"},
         {"name":"Arshdeep Singh","player_image_url":"https://example.com/players/arshdeep_singh.jpg"},
@@ -647,8 +687,8 @@
       ]
     },
     {
-      "name": "Rajasthan Royals",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Rajasthan-Royals",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/5/5c/This_is_the_logo_for_Rajasthan_Royals%2C_a_cricket_team_playing_in_the_Indian_Premier_League_%28IPL%29.svg",
       "squad": [
         {"name":"Sanju Samson","player_image_url":"https://example.com/players/sanju_samson.jpg"},
         {"name":"Jos Buttler","player_image_url":"https://example.com/players/jos_buttler.jpg"},
@@ -668,8 +708,8 @@
       ]
     },
     {
-      "name": "Kolkata Knight Riders",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Kolkata-Knight-Riders",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/4/4c/Kolkata_Knight_Riders_Logo.svg",
       "squad": [
         {"name":"Ajinkya Rahane","player_image_url":"https://example.com/players/ajinkya_rahane.jpg"},
         {"name":"Rinku Singh","player_image_url":"https://example.com/players/rinku_singh.jpg"},
@@ -689,8 +729,8 @@
       ]
     },
     {
-      "name": "Sunrisers Hyderabad",
-      "flag_url": "https://flagcdn.com/in.svg",
+      "teamName": "Sunrisers-Hyderabad",
+      "logo_imgurl": "https://upload.wikimedia.org/wikipedia/en/5/51/Sunrisers_Hyderabad_Logo.svg",
       "squad": [
         {"name":"Heinrich Klaasen","player_image_url":"https://example.com/players/heinrich_klaasen.jpg"},
         {"name":"Travis Head","player_image_url":"https://example.com/players/travis_head.jpg"},
@@ -719,42 +759,42 @@
   "dates": "2024-11-23 to 2024-12-15",
   "participants": 38,
   "teams": [
-    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+    {"teamName": "Punjab", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bengal", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bihar", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Rajasthan", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Hyderabad", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Meghalaya", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mizoram", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Madhya Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Baroda", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Gujarat", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Karnataka", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Uttarakhand", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Saurashtra", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Sikkim", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tamil Nadu", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tripura", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Arunachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Himachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Delhi", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Uttar Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Haryana", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Manipur", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jammu and Kashmir", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jharkhand", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Assam", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Railways", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Chhattisgarh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Puducherry", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Vidarbha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Odisha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Goa", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mumbai", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Kerala", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Services", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Nagaland", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Andhra Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"}
   ]
 
 },{
@@ -764,42 +804,42 @@
   "dates": "2024-11-23 to 2024-12-15",
   "participants": 38,
   "teams": [
-    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+    {"teamName": "Punjab", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bengal", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bihar", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Rajasthan", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Hyderabad", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Meghalaya", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mizoram", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Madhya Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Baroda", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Gujarat", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Karnataka", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Uttarakhand", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Saurashtra", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Sikkim", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tamil Nadu", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tripura", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Arunachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Himachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Delhi", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Uttar Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Haryana", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Manipur", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jammu and Kashmir", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jharkhand", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Assam", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Railways", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Chhattisgarh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Puducherry", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Vidarbha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Odisha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Goa", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mumbai", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Kerala", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Services", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Nagaland", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Andhra Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"}
   ]
 },{
   "tournament_id": "VHT25-26",
@@ -807,42 +847,42 @@
   "format": "List A (50 overs)",
   "participants": 38,
   "teams": [
-    {"name": "Punjab", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bengal", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Bihar", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Rajasthan", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Hyderabad", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Meghalaya", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mizoram", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Madhya Pradesh", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Baroda", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Gujarat", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Karnataka", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Uttarakhand", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Saurashtra", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Sikkim", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tamil Nadu", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Tripura", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Arunachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Himachal Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Delhi", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Uttar Pradesh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Haryana", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Manipur", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jammu and Kashmir", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Jharkhand", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Assam", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Railways", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Chhattisgarh", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Puducherry", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Vidarbha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Odisha", "flag_url": "https://flagcdn.com/in.svg" },
-    {"name": "Goa", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Mumbai", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Kerala", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Services", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Nagaland", "flag_url": "https://flagcdn.com/in.svg"},
-    {"name": "Andhra Pradesh", "flag_url": "https://flagcdn.com/in.svg"}
+    {"teamName": "Punjab", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bengal", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Bihar", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Rajasthan", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Hyderabad", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Meghalaya", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mizoram", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Madhya Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Baroda", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Gujarat", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Karnataka", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Uttarakhand", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Saurashtra", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Sikkim", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tamil Nadu", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Tripura", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Arunachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Himachal Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Delhi", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Uttar Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Haryana", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Manipur", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jammu and Kashmir", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Jharkhand", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Assam", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Railways", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Chhattisgarh", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Puducherry", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Vidarbha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Odisha", "logo_imgurl": "https://flagcdn.com/in.svg" },
+    {"teamName": "Goa", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Mumbai", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Kerala", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Services", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Nagaland", "logo_imgurl": "https://flagcdn.com/in.svg"},
+    {"teamName": "Andhra Pradesh", "logo_imgurl": "https://flagcdn.com/in.svg"}
   ]
 },{
   "tournament_id": "DULEEP24-25",
@@ -850,7 +890,7 @@
   "format": "First-class",
   "teams": [
     {
-      "name": "India A",
+      "teamName": "India A",
       "captain": "Shubman Gill (later Mayank Agarwal)",
       "squad": [
         "Shubman Gill",
@@ -873,7 +913,7 @@
       "player_image_urls": {} 
     },
     {
-      "name": "India B",
+      "teamName": "India B",
       "captain": "Abhimanyu Easwaran",
       "squad": [
         "Abhimanyu Easwaran",
@@ -895,7 +935,7 @@
       "player_image_urls": {}
     },
     {
-      "name": "India C",
+      "teamName": "India C",
       "captain": "Ruturaj Gaikwad",
       "squad": [
         "Ruturaj Gaikwad",
@@ -917,7 +957,7 @@
       "player_image_urls": {}
     },
     {
-      "name": "India D",
+      "teamName": "India D",
       "captain": "Shreyas Iyer",
       "squad": [
         "Shreyas Iyer",

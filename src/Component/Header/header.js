@@ -1,9 +1,19 @@
-import React from 'react'
+import React, { useState } from 'react'
 import 'C:/Users/surid/Desktop/Local Sports/frontend/src/assests/Logo1.png';
 import "../Header/header.css";
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 function Header() {
+
+      const [query, setQuery] = useState('');
+  const navigate = useNavigate();
+
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (query.trim()) {
+      navigate(`/search?q=${query}`);
+    }
+  };
   return (
     <div className='bg-color '>
         <div className='container'>
@@ -32,7 +42,15 @@ function Header() {
                     <button>Dark||Light</button>
                 </div> */}
                 <div className='col-md-2 fs-2 fw-bold text-center'>
-                    <input type='text' placeholder='Search'/>
+                    <form onSubmit={handleSearch} style={{ display: 'flex' }}>
+                     <input
+                       type="text"
+                       placeholder="Search teams, players, tournaments"
+                       value={query}
+                       onChange={(e) => setQuery(e.target.value)}
+                     />
+                    <button className='btn btn-secondary btn-lg ms-2' type="submit">Search</button>
+                    </form>
                 </div>
                
             </div>

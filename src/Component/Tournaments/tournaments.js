@@ -24,7 +24,7 @@ function Tournaments() {
         {tournamentsData.map((tournament) => (
           <div key={tournament.id} >
               <div onClick={()=>handleClick(tournament.id)} className='image-text-container card shadow'>
-                 <div><img src={tournament.logoUrl} alt={tournament.name} width="150" height="200"/></div>
+                 <div><img src={tournament.logoUrl} alt={tournament.name} width="150"/></div>
                 <div className='fs-5 fw-bold  text-center"'>{tournament.name}</div>
             </div>
           </div>
